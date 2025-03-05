@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  drecsys:
+    build: .
+    container_name: drecsys
+    volumes:
+      - ./data:/app/data
+      - ./output:/app/output
+      - ./plots:/app/plots
+      - ./logs:/app/logs
+      - ./models:/app/models
+      - ./.cache:/app/.cache
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TRANSFORMERS_CACHE=/app/.cache/transformers
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    command: bash -c "chmod +x /app/run_drecsys.sh && /app/run_drecsys.sh"
+    # For interactive use, comment the line above and uncomment the line below
+    # command: bash

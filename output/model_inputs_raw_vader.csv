@@ -1,0 +1,1200 @@
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+30,Female,None,"Depression","No history of weight gain despite the common association",Mirtazapine,2.7
+40,Male,None,"Crohn's Disease","Father of a son diagnosed with Crohn's disease",Mesalamine,5.4
+25,Female,None,"Urinary Tract Infection","Experienced quick symptom relief",Bactrim,5.0
+35,Female,None,"Weight Loss","No access to a scale, using clothing fit as a progress indicator",Contrave,8.5
+28,Female,None,"Birth Control","Started using after reading reviews",Cyclafem 1/35,9.8
+50,Female,None,"Keratosis","Used protection to avoid unwanted exposure on other areas",Zyclara,8.5
+30,Female,None,"Birth Control","Good with handling pain; considered the coil for the lack of hormones",Copper,2.0
+38,Female,None,"Migraine Prevention","Using it for a couple of weeks, relieved with Tylenol",Amitriptyline,8.5
+45,Male,None,"Opiate Withdrawal","Seeking support and encouragement from others",Methadone,3.8
+32,Female,None,"Birth Control","Switched to Yaz after noticing mood changes",Levora,0.5
+50,Female,None,"Hot Flashes","Frustrated with the lack of support in accessing the medication",Paroxetine,0.7
+30,Female,None,"Vaginal Yeast Infection","Hopeful about the treatment effectiveness",Miconazole,8.6
+40,Female,None,"Weight Loss","Found the medication ineffective",Belviq,2.9
+45,Female,None,"Schizoaffective Disorder","Maintaining a healthy diet as part of the regimen",Seroquel,2.0
+35,Male,None,"Insomnia","Experienced unusual behaviors and memory lapses",Ambien,2.7
+28,Female,None,"Narcolepsy","ER doctor initially prescribed a different medication",Nuvigil,8.2
+60,Male,None,"Smoking Cessation","Smoked for over 50 years before successfully quitting",Chantix,8.1
+22,Female,None,"Acne","Switched from a more expensive medication to reduce costs",Microgestin Fe 1/20,0.3
+40,Male,None,"Bipolar Disorder","Used it primarily to aid sleep, with eventual reduced effectiveness",Klonopin,2.3
+30,Female,None,"Urinary Tract Infection","Experienced immediate improvement after the first dose",Ciprofloxacin,5.0
+25,Female,None,"Insomnia","Felt wired and restless even at higher doses",Trazodone,9.6
+50,Female,None,"Irritable Bowel Syndrome","Appreciates samples provided by the doctor",EnteraGam,3.7
+35,Female,None,"Bipolar Disorder","Noticing heightened awareness to environmental stimuli",Aripiprazole,8.1
+45,Female,None,"Keratoconjunctivitis Sicca","No relief from dry eye symptoms",Cyclosporine,7.0
+40,Female,None,"Hyperhidrosis","Tried multiple treatments before finding this one effective",Oxybutynin,8.8
+35,Female,None,"Bipolar Disorder","Had a detailed discussion with the doctor before starting the treatment",Lurasidone,1.9
+25,Female,None,"Panic Disorder","Felt a significant positive impact on life quality",Clonazepam,7.3
+40,Female,None,"Onychomycosis","Discovered the need for regular nail maintenance to aid effectiveness",Ciclopirox,2.5
+50,Female,None,"Narcolepsy","Uses the medication nightly for the past five years",Sodium oxybate,6.1
+35,Female,None,"Bipolar Disorder","Started pairing with another medication for better results",Lamotrigine,7.6
+30,Female,None,"Birth Control","Had a positive experience with regulating periods",Blisovi Fe 1/20,7.2
+40,Female,None,"Rosacea","Thrilled with the long-term improvement after 6 months",Ivermectin,9.0
+50,Male,None,"Bowel Preparation","First-time colonoscopy experience",Suprep Bowel Prep Kit,0.2
+35,Female,None,"Constipation","Noted the medication's similarity to other treatments tried",Movantik,0.7
+30,Female,None,"Back and Leg Pain","Regularly experiences pain impacting daily activities",Lorcaserin,2.4
+50,Male,None,"Diabetes, Type 2","Planning to seek a second opinion due to current concerns",Actos,4.4
+58,Male,None,"Pain","Started feeling relief from spinal conditions after 2 weeks",Duloxetine,2.4
+25,Female,None,"Birth Control","Had a noticeable change in libido and mood swings",NuvaRing,9.2
+22,Female,None,"Depression","College student who felt a significant improvement after 3 weeks",Escitalopram,6.2
+45,Female,None,"Lipodystrophy","Disappointed after 2.5 months of usage",Tesamorelin,0.4
+35,Male,None,"Alcohol Dependence","Experienced reduced cravings after years of heavy drinking",Campral,6.8
+35,Female,None,"Bipolar Disorder","Started experiencing improvements with higher doses",Gabapentin,8.9
+22,Female,None,"Emergency Contraception","Took the pill promptly and experienced early period arrival",Levonorgestrel,9.3
+35,Female,None,"Birth Control","Decided to switch after experiencing mood swings and acne",Aubra,0.4
+35,Female,None,"Emergency Contraception","Experienced period alteration after taking the pill",Plan B One-Step,0.4
+25,Female,None,"Birth Control","Had positive experience with ring and recommended to others",Ethinyl estradiol / etonogestrel,6.1
+30,Female,None,"Birth Control","Switched due to insurance changes, experiencing new side effects",Microgestin Fe 1.5 / 30,0.1
+40,Female,None,"Major Depressive Disorder","Experienced a life-changing effect after starting treatment",Wellbutrin,9.1
+30,Female,None,"Anxiety","Simple and effective solution for the user's symptoms",Clonazepam,5.0
+28,Female,None,"Acne","Advised by a GP before seeking further dermatological care",Benzoyl peroxide / clindamycin,1.3
+25,Female,None,"Birth Control","Has experienced significant changes in mood and anxiety",Etonogestrel,0.9
+35,Female,None,"Vaginal Yeast Infection","Trusts the treatment's effectiveness based on past use",Miconazole,8.6
+35,Female,None,"Bladder Infection","Hoping for full recovery with one more dose",Nitrofurantoin,6.0
+30,Female,None,"Birth Control","Experienced emotional sensitivity and unpredictable periods",Etonogestrel,0.7
+28,Female,None,"Birth Control","Decided to take the medication to help with acne issues",Ortho Tri-Cyclen Lo,0.6
+50,Male,None,"Benign Prostatic Hyperplasia","Positive effect on nocturnal symptoms",Tamsulosin,0.1
+50,Female,None,"Rheumatoid Arthritis","Found early relief but later experienced concerning symptoms",Tofacitinib,1.8
+35,Female,None,"Endometriosis","Saw improvement in cramping and bleeding control",Cryselle,5.6
+30,Female,None,"ADHD","Felt significant life improvements for the first few years",Amphetamine / dextroamphetamine,9.8
+40,Female,None,"Acne","Avoided public appearances due to severe acne flare-ups",Clindamycin,3.1
+25,Female,None,"Restless Legs Syndrome","Experienced both relief and challenging side effects",Pramipexole,6.1
+30,Female,None,"Birth Control","Felt nervous before getting the implant but now feels relieved",Skyla,9.8
+35,Female,None,"Conjunctivitis","Experienced unexpected reaction despite prior history of allergies",Lastacaft,8.6
+28,Female,None,"Anxiety","Started treatment for hormone-related mood swings",Effexor XR,0.2
+35,Female,None,"Raynaud's Syndrome","Experienced immediate rare side effects with first dose",Nifedipine,9.2
+30,Female,None,"Schizophrenia","Noticed improved behavior and coping with daily tasks",Lurasidone,9.4
+50,Female,None,"Diabetes, Type 1","Was part of a clinical trial for the treatment",Afrezza,4.4
+35,Female,None,"Depression","Experienced constant hunger and fatigue during treatment",Zoloft,2.2
+40,Female,None,"Schizophrenia","Found significant relief from auditory hallucinations",Ziprasidone,7.6
+28,Female,None,"Kidney Infections","Had a severe allergic reaction requiring emergency care",Bactrim,0.2
+35,Female,None,"Birth Control","Discovered random breakouts and weight changes",Ethinyl estradiol / norethindrone,7.6
+45,Female,None,"Major Depressive Disorder","Experienced an immediate positive impact on mood and behavior",Sertraline,9.2
+30,Female,None,"Hyperhidrosis","Suffered from embarrassing sweating issues since high school",Aluminum chloride hexahydrate,9.5
+35,Female,None,"Depression","Encountered severe side effects shortly after starting treatment",Effexor XR,0.2
+30,Female,None,"Birth Control","Found the IUD removal challenging but felt better afterward",ParaGard,3.0
+45,Female,None,"Generalized Anxiety Disorder","Credits the medication for reversing anxiety symptoms",Pregabalin,9.4
+25,Female,None,"Birth Control","Felt worried about the length of period changes",Ethinyl estradiol / levonorgestrel,7.1
+40,Female,None,"Pain","Had multiple surgeries resulting in chronic pain",Ultram,1.3
+35,Female,None,"Obesity","Noticed weight loss with changes in appetite",Phentermine,5.0
+35,Female,None,"Depression","Had previous experience with medication during pregnancy",Venlafaxine,4.0
+40,Female,None,"Alcohol Dependence","Feels hopeful and reports an antidepressant effect",Campral,8.0
+35,Female,None,"Depression","Had a severe reaction with shaking and confusion",Venlafaxine,0.4
+22,Female,None,"Emergency Contraception","Taken to prevent pregnancy after a recent incident",Levonorgestrel,0.8
+28,Female,None,"Anxiety","Experienced lightheadedness and dizziness during treatment",BuSpar,1.1
+50,Male,None,"Pain","Combined with a muscle relaxer for better relief",Acetaminophen / hydrocodone,6.7
+30,Female,None,"Birth Control","Started after reading mixed reviews online",Aviane,0.3
+45,Female,None,"Migraine Prevention","Noticed insurance issues with medication coverage",Inderal,8.9
+30,Female,None,"Nausea/Vomiting","Found the suppository effective for migraines",Promethazine,6.1
+30,Female,None,"Vaginal Yeast Infection","Using coconut oil to alleviate discomfort",Tioconazole,2.4
+40,Female,None,"Osteoarthritis","Tried this treatment as a last resort",Orthovisc,0.8
+35,Female,None,"Birth Control","Currently on the second implant, considering removal",Implanon,8.4
+35,Female,None,"Motion Sickness","Husband loves the ocean, prompting a search for a remedy",Marezine,9.1
+30,Female,None,"Birth Control","Positive about procedure, took steps to manage pain",Levonorgestrel,0.8
+35,Female,None,"Bipolar Disorder","Underwent dosage adjustments and monitoring",Aripiprazole,6.7
+50,Male,None,"High Blood Pressure","Found the medication inappropriate for personal use",Minoxidil,1.0
+40,Female,None,"Psoriatic Arthritis","Feels close to normal between injections",Humira,8.5
+50,Male,None,"Diabetes, Type 1","Had been off and back on the medication after a trial",Insulin inhalation, rapid acting,5.0
+35,Female,None,"Pain","Regular use for headaches due to a sinus problem",Acetaminophen / hydrocodone,6.9
+35,Female,None,"Interstitial Cystitis","Using occasionally for symptom management",Phenazopyridine,1.4
+30,Female,None,"Birth Control","Appreciated the doctor's support and felt prepared",Levonorgestrel,0.2
+5,Male,None,"ADHD","Started medication as a non-stimulant option",Clonidine,9.8
+30,Female,None,"Birth Control","Experienced mood swings and appetite changes",Ethinyl estradiol / norgestimate,5.9
+35,Female,None,"Smoking Cessation","Quit successfully and remained smoke-free for three years",Nicoderm CQ,9.3
+35,Female,None,"Emergency Contraception","Experienced additional bleeding and anxiety post-use",Levonorgestrel,0.3
+50,Female,None,"Osteoarthritis","Did not experience pain relief",Celecoxib,5.0
+28,Female,None,"Major Depressive Disorder","Felt significant improvement in emotional control",Fluoxetine,3.2
+40,Female,None,"Migraine Prevention","Experienced immunity issues during the treatment",Topamax,0.7
+35,Female,None,"Bipolar Disorder","Noted feeling consistently tired during treatment",Depakote,2.8
+40,Female,None,"Migraine Prevention","Started using after researching potential benefits",Riboflavin,5.0
+30,Female,None,"Birth Control","Experienced rapid weight gain and other side effects",Lo Loestrin Fe,6.7
+35,Female,None,"Birth Control","Felt relieved after the removal of the copper IUD",Copper,7.0
+50,Female,None,"Postmenopausal Symptoms","Returned to normal sleep after starting treatment",Drospirenone / estradiol,4.7
+45,Female,None,"Depression","Noticed an increase in productivity after starting treatment",Bupropion,0.5
+30,Female,None,"Bacterial Skin Infection","Works in a fast-paced food service industry",Bacitracin / neomycin / polymyxin b,0.7
+35,Female,None,"Weight Loss","Lost a significant amount of weight over time",Phentermine,9.9
+25,Female,None,"Birth Control","Noticed emotional sensitivity after switching to Yaz",Yaz,7.4
+30,Female,None,"Birth Control","Felt nervous before the procedure but relieved after",Copper,2.3
+66,Female,None,"Fibromyalgia","Experienced unusual symptoms after a few days on medication",Amitriptyline,4.7
+35,Female,None,"Birth Control","Had to switch from a previous form due to insurance",Jolessa,6.0
+28,Female,None,"Cough and Nasal Congestion","Struggles with severe sinus problems year-round",Guaifenesin / pseudoephedrine,2.5
+45,Female,None,"Pain","Experienced severe chronic pain post-surgery",Oxycodone,0.1
+25,Female,None,"Birth Control","Encountered side effects but considering giving it more time",Nexplanon,9.7
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+50,Female,None,"Depression, Anxiety","Experiencing third bout at age 50",Bupropion,0.82
+45,Female,None,"Hot Flashes","Visited multiple specialists to identify issues",Brisdelle,1.19
+40,Male,None,"Smoking Cessation","Hospitalized for three days",Bupropion,6.39
+25,Female,None,"Acne","Consistent improvement over one month",Beyaz,9.39
+30,Female,None,"Birth Control","Had severe migraines prior to this medication",Lo Loestrin Fe,0.54
+35,Female,None,"Birth Control","Attempted to skip periods, noticed changes",Ethinyl estradiol / norgestimate,5.36
+28,Female,None,"Acne","Took a break from medication for a while",Yasmin,2.85
+35,Female,None,"ADHD","Feels better on the medication",Bupropion,1.83
+25,Female,None,"Depression","Changed medication multiple times",Zoloft,0.45
+40,Male,None,"Diabetic Peripheral Neuropathy","Stepfather passed away recently",Nucynta ER,0.19
+35,Female,None,"Major Depressive Disorder","Lives in Norway",Prozac,0.13
+32,Male,None,"Anxiety","Using multiple medications concurrently",BuSpar,0.10
+25,Female,None,"Birth Control","Has been on the medication for 5 months",Kariva,4.74
+30,Female,None,"Depression, GAD","Felt improvement after 2 months",Escitalopram,9.43
+45,Female,None,"Diabetes, Type 2","Used to have a large appetite",Liraglutide,3.11
+72,Male,None,"Renal Cell Carcinoma","Had kidney removed six years ago",Sutent,7.86
+30,Female,None,"Birth Control","Breasts grew noticeably larger",Ethinyl estradiol / norethindrone,1.09
+40,Female,None,"Pain","Severe pain without relief",Tramadol,3.62
+30,Female,None,"Pain","Discharged from intensive care",Tylenol with Codeine #3,0.30
+40,Female,None,"Panic Disorder","Has an autistic child",BuSpar,2.71
+30,Female,None,"Constipation","Undergoing colonoscopy soon",Magnesium citrate,7.47
+25,Female,None,"Vaginal Yeast Infection","Sister recommended going to the store",Tioconazole,8.88
+30,Female,None,"Birth Control","Has three children",Depo-Provera,9.66
+30,Female,None,"Birth Control","Lift weights regularly",Drospirenone / ethinyl estradiol,8.91
+25,Female,None,"Birth Control","Experienced changes after three months",Safyral,0.25
+20,Female,None,"Emergency Contraception","Panicked after condom failure",Levonorgestrel,2.16
+50,Male,None,"Depression","Only uses brand name medication",Effexor XR,9.77
+35,Female,None,"Insomnia","Used for a couple of years",Desyrel,8.24
+40,Female,None,"Diabetes, Type 2","Takes half a pill daily",Glyburide,5.00
+30,Female,None,"Generalized Anxiety Disorder","Attends rock concerts now",Escitalopram,0.08
+50,Male,None,"Renal Cell Carcinoma","Told he had six months to live",Aldesleukin,0.99
+30,Female,None,"Social Anxiety Disorder","Gets severe headaches if dose is missed",Zoloft,0.71
+40,Female,None,"Depression","Dealing with insomnia",Desvenlafaxine,2.53
+32,Female,None,"Birth Control","Endometriosis improved with use",Levonorgestrel,3.69
+25,Female,None,"Birth Control","Experienced lethargy and emotional changes",Drospirenone / ethinyl estradiol,4.73
+60,Male,None,"Obesity","Vegetarian for 28 years",Phentermine / topiramate,6.01
+47,Female,None,"Major Depressive Disorder","Initial relief followed by decline",Pristiq,3.87
+45,Female,None,"Bipolar Disorder","Switched from Seroquel recently",Lurasidone,9.66
+30,Female,None,"Vaginal Yeast Infection","Wasn't aware of the burning sensation",Miconazole,2.80
+35,Male,None,"Alcohol Dependence","Had early-stage cirrhosis warning",Acamprosate,8.03
+40,Female,None,"Acne","Had never experienced cystic acne before",Spironolactone,2.00
+35,Female,None,"Nausea/Vomiting of Pregnancy","Fourth pregnancy",Doxylamine / pyridoxine,0.22
+40,Female,None,"Pain","Experienced dizziness and drowsiness",Demerol,0.63
+25,Female,None,"Binge Eating Disorder","Recently experienced insomnia",Vyvanse,4.78
+30,Female,None,"Birth Control","Has been on the shot for over ten years",Depo-Provera,8.44
+40,Male,None,"Hepatitis C","Started to see results after a month",Sovaldi,7.20
+30,Female,None,"Depression","Recently started on a new medication",Sertraline,0.74
+40,Male,None,"Back Pain","Struggled with discomfort",Motrin IB,5.39
+35,Female,None,"Cold Sores","Noticed improvement when using medication correctly",Valacyclovir,6.81
+45,Male,None,"Opiate Dependence","Saved his marriage",Buprenorphine / naloxone,7.38
+50,Male,None,"Heart Attack","Experienced frequent urination",Metoprolol,4.05
+50,Male,None,"Depression","Had severe withdrawal effects",Pristiq,0.14
+40,Female,None,"Asthma","Taking this medication with no side effects",Montelukast,7.20
+30,Female,None,"Cough","Experienced severe diarrhea",Dextromethorphan,0.49
+45,Male,None,"Erectile Dysfunction","Experienced hives during use",Levitra,4.74
+30,Male,None,"Insomnia","Took anti-anxiety medication alongside",Restoril,8.31
+50,Female,None,"Autoimmune Hepatitis","Using for 18 years",Azathioprine,0.47
+30,Female,None,"Acne","Developed breakouts on cheeks and forehead",Adapalene / benzoyl peroxide,0.59
+40,Female,None,"Chronic Constipation","Stayed close to bathroom due to diarrhea",Linzess,4.36
+38,Male,None,"Seizures","Suffered from head injury in 2004",Levetiracetam,9.45
+30,Female,None,"Acne","Combined with doxycycline for better results",Ziana,9.95
+36,Female,None,"Opiate Dependence","Tried quitting several times over the years",Suboxone,9.31
+28,Female,None,"Birth Control","Gained weight after insertion",Nexplanon,0.08
+35,Female,None,"Bacterial Vaginitis","Recurring for the past six months",Tinidazole,0.33
+30,Female,None,"Headache","Experiencing severe migraines",Diazepam,1.17
+35,Female,None,"Acne","Experienced drug reaction",Spironolactone,0.18
+45,Male,None,"Bipolar Disorder","Experienced constipation",Quetiapine,9.53
+35,Female,None,"Headache","Tried various medications with no success",Acetaminophen / butalbital / caffeine,8.72
+25,Female,None,"Birth Control","Developed cystic acne",Ethinyl estradiol / norethindrone,9.18
+50,Female,None,"Postmenopausal Symptoms","Only hormone replacement that works for her",Estradiol,8.59
+45,Female,None,"Fibromyalgia","Experiences nerve pain in arms",Gabapentin,9.27
+25,Female,None,"Birth Control","Experienced cramping during insertion",ParaGard,8.93
+30,Female,None,"Anesthesia","Used for IVF egg collection",Propofol,9.54
+21,Female,None,"Birth Control","Lost weight immediately after starting",Depo-Provera,9.69
+22,Male,None,"Performance Anxiety","Recommended by his father",Propranolol,9.03
+22,Female,None,"Acne","Experienced significant decrease in acne",Adapalene / benzoyl peroxide,8.78
+13,Female,None,"Menstrual Disorders","Had severe PMDD",Yaz,6.58
+50,Male,None,"Pneumonia","Achilles tendon injury followed treatment",Levofloxacin,1.72
+30,Female,None,"Depression","Body aches and pains improved",Vilazodone,7.40
+18,Female,None,"Acne","First time in 8 years going out without makeup",Accutane,9.88
+40,Male,None,"Depression","Medication had a significant impact",Bupropion,7.11
+35,Female,None,"Migraine","Uses combination of medications for relief",Nalbuphine,0.99
+30,Female,None,"Depression","Has cyclothymia",Lexapro,0.24
+40,Female,None,"Generalized Anxiety Disorder","Hasn't had a panic attack in a week",Quetiapine,1.25
+30,Female,None,"Acute Constipation","Recommended by doctor",MiraLax,5.94
+45,Male,None,"Anxiety","Veteran from the Gulf War",Clonazepam,1.24
+40,Female,None,"Seizures","No issues during pregnancy",Phenobarbital,3.52
+32,Female,None,"Birth Control","Had previous negative experiences with other methods",Levonorgestrel,3.31
+40,Female,None,"Rosacea","Experienced improvement after 2.5 months",Metronidazole,9.58
+35,Female,None,"Chronic Pain","Uses it for gastrointestinal pain",Tramadol,0.96
+40,Female,None,"Benign Essential Tremor","Uses it for high blood pressure as well",Metoprolol,0.30
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+35,Male,None,"Human Papilloma Virus","Underwent cryotherapy along with the treatment",Imiquimod,1.059
+40,Female,None,"Hypersomnia","Prefers this over energy drinks or coffee",Caffeine,9.4415
+30,Female,None,"Birth Control","No history of pregnancy, took pain medication before insertion",Levonorgestrel,0.739
+22,Female,None,"Birth Control","Not interested in sex, experiencing weight gain",Etonogestrel,9.6005
+50,Male,None,"Diabetic Kidney Disease","Blood pressure tracked multiple times a day",Lisinopril,2.8925
+38,Female,None,"Cough","Simple and effective remedy",Benzonatate,5.0
+60,Female,None,"Meniere's Disease","Struggled with the condition for over 37 years",Diazepam,2.9905
+30,Female,None,"Nasal Congestion","Experiencing swelling above the eyelids",Ayr Saline Nasal,5.0
+45,Female,None,"Depression","Has tried various medications before finding the right one",Venlafaxine,0.1225
+40,Male,None,"Pneumonia","Underwent IV treatment for 3 weeks",Clarithromycin,5.0
+35,Female,None,"Psoriatic Arthritis","Has been using the medication for over 15 years",Enbrel,5.778
+28,Female,None,"Birth Control","Started during the first serious relationship",Ethinyl estradiol / norethindrone,9.511
+55,Male,None,"Bowel Preparation","Received detailed dietary instructions before procedure",Polyethylene glycol 3350 with electrolytes,8.823
+18,Female,None,"Birth Control","Started using at 18 years old",Implanon,6.212
+45,Female,None,"Pain","Diagnosed with fibromyalgia and arthritis",Gabapentin,0.107
+25,Female,None,"Birth Control","Switched from another birth control method",Microgestin Fe 1 / 20,0.240
+40,Female,None,"Keratoconjunctivitis Sicca","Commented on the actress in the TV commercial",Restasis,6.0115
+30,Female,None,"Weight Loss","Losing 7 lbs in 6 weeks",Belviq,2.3025
+32,Female,None,"Vaginal Yeast Infection","Experienced immediate discomfort while using",Tioconazole,3.681
+45,Female,None,"Bipolar Disorder","Stopped medication due to personal concerns",Symbyax,1.8155
+30,Female,None,"Depression","Discontinued after only 2 days of use",Zoloft,0.858
+35,Female,None,"Obsessive Compulsive Disorder","Experienced improvement in symptoms after a few weeks",Zoloft,9.012
+50,Female,None,"Major Depressive Disorder","Doctor advised to continue the medication",Vilazodone,6.9125
+28,Female,None,"Acne","Used additional skincare products alongside",Tretinoin,7.628
+45,Female,None,"Chronic Myelogenous Leukemia","Concerned about changes in skin color",Gleevec,3.638
+30,Female,None,"Depression","Experiencing more social engagement recently",Desvenlafaxine,8.33
+40,Female,None,"Birth Control","Noticed side effects shortly after insertion",Nexplanon,0.842
+50,Female,None,"Restless Legs Syndrome","Managed after gastric bypass surgery",Ropinirole,5.0
+21,Female,None,"Birth Control","Started using during teenage years",Aviane,1.004
+35,Female,None,"Endometriosis","Noticed changes after the first injection",Depo-Provera,9.7745
+40,Male,None,"Anxiety","Managing diabetes and foot pain",Gabapentin,9.677
+28,Female,None,"Birth Control","First time using this type of medication",Ethinyl estradiol / levonorgestrel,1.0465
+32,Female,None,"Birth Control","Experienced breakthrough bleeding initially",Ethinyl estradiol / etonogestrel,9.8235
+30,Female,None,"Female Infertility","Successfully conceived after treatment",Clomiphene,9.568
+45,Male,None,"Oral Thrush","Follows a daily regimen of probiotics and vitamins",Clotrimazole,3.52
+35,Male,None,"Migraine Prevention","Partner noticed personality changes",Topiramate,0.2575
+28,Female,None,"Birth Control","Causing relationship strain due to mood changes",Etonogestrel,0.1965
+40,Female,None,"Insomnia","Experienced unusual behavior when combined with alcohol",Ambien,2.802
+56,Male,None,"ADHD","Recently started this medication after a long period without treatment",Vyvanse,9.459
+50,Female,None,"Actinic Keratosis","Undergoing treatment on the face",Fluorouracil,5.921
+40,Male,None,"HIV Infection","Feeling positive about life after the third review",Genvoya,9.922
+42,Female,None,"Pain","Started using medication for osteoarthritis pain",Tramadol,9.1635
+30,Female,None,"Cough","Typically sensitive to medications",Tessalon Perles,1.502
+45,Female,None,"Bipolar Disorder","Felt a significant mood improvement after starting",Asenapine,9.8055
+50,Female,None,"Anxiety","Concerned about long-term effects",Gabapentin,0.3805
+35,Female,None,"Weight Loss","Struggled with post-pregnancy weight",Adipex-P,9.6975
+18,Female,None,"Birth Control","First time on birth control, feeling positive",Ethinyl estradiol / levonorgestrel,8.827
+50,Female,None,"Bowel Preparation","Prepared for colonoscopy using a specific routine",Suprep Bowel Prep Kit,8.705
+27,Female,None,"Pregnancy/Lactation","Expecting a healthy baby at 27 weeks",Prenatal Plus,9.3725
+35,Female,None,"Bacterial Infection","Happy with the medication's effectiveness",Keflex,5.898
+45,Female,None,"Vitamin D Deficiency","Feeling better after years of symptoms",Vitamin D2,1.3305
+50,Female,None,"Sciatica","Used this medication for years to manage symptoms",Flexeril,8.6355
+45,Female,None,"Depression","Undergoing therapy along with medication",Viibryd,8.8195
+35,Female,None,"Menstrual Disorders","Able to sleep through the night now",Lysteda,6.25
+45,Male,None,"Migraine Prevention","Had to discontinue due to side effects",Topiramate,6.9605
+30,Female,None,"Otitis Media","Treated an 11-month-old child with the medication",Omnicef,5.743
+40,Male,None,"Skin or Soft Tissue Infection","Treatment for a deep wound",Augmentin,8.062
+40,Female,None,"Crohn's Disease","Underwent surgery before starting treatment",Pentasa,0.64
+35,Female,None,"Nausea/Vomiting","Used medication for morning sickness",Zofran,8.7895
+50,Female,None,"GERD","Experienced a severe allergic reaction",Kapidex,1.247
+40,Male,None,"Depression","Returned to medication after a break",Serzone,7.6515
+25,Female,None,"Birth Control","Experienced significant anxiety and weight gain",Ethinyl estradiol / norgestimate,2.078
+30,Female,None,"Depression","Gained weight and experienced sickness",Zoloft,2.941
+35,Female,None,"Urinary Tract Infection","Has interstitial cystitis with recurring symptoms",Hyoscyamine / methenamine / methylene blue / phenyl salicylate,6.7
+40,Male,None,"Insomnia","Looking for a stronger sleep aid",Diphenhydramine,7.0095
+35,Female,None,"Rheumatoid Arthritis","Experienced severe symptoms after a week of use",Minocycline,3.194
+28,Female,None,"Vaginal Yeast Infection","Frequent infections after taking antibiotics",Monistat 3-Day Combination Pack,0.131
+40,Female,None,"Labor Induction","Used the medication for all three labors",Pitocin,8.6695
+35,Female,None,"Birth Control","Unexpected weight gain and mood changes",Levonorgestrel,1.1695
+40,Male,None,"Myasthenia Gravis","Notices when the medication starts to wear off",Pyridostigmine,6.1315
+45,Female,None,"Back Pain","Relief from hip and knee pain",Naprosyn,2.447
+30,Female,None,"Psoriasis","Dealing with the condition for over 17 years",Elocon,1.075
+40,Female,None,"Skin or Soft Tissue Infection","Treating a jaw abscess",Clindamycin,9.1125
+45,Male,None,"Soft Tissue Sarcoma","Underwent surgery and chemotherapy",Pazopanib,9.9145
+32,Female,None,"Birth Control","Painful insertion and considering removal",Skyla,0.332
+65,Female,None,"Osteoporosis","Active lifestyle severely impacted after injection",Denosumab,3.2025
+30,Female,None,"Constipation","Personal advice to others about usage",Bisacodyl,5.0
+30,Female,None,"Anxiety","Started experiencing symptoms at age 24",Paxil,1.8805
+35,Female,None,"Psoriasis","Living in the UK and dealing with the condition for 20 years",Methotrexate,9.6955
+35,Female,None,"Ovarian Cysts","Hospitalized three times due to severe pain",Sprintec,2.845
+25,Female,None,"Birth Control","Experiencing constant bleeding and UTIs",Etonogestrel,0.889
+40,Female,None,"Kidney Infections","Preventing infection while passing a kidney stone",Ciprofloxacin,6.909
+42,Female,None,"Birth Control","Noticed significant body changes over the years",Levonorgestrel,9.2135
+35,Female,None,"Weight Loss","Critical of fake comments online",Adipex-P,3.9885
+30,Female,None,"Weight Loss","Lost about 8 pounds in 10 days",Liraglutide,4.1925
+45,Female,None,"Pain","Found a life-saving medication after trying others",Buprenex,3.8685
+32,Female,None,"Birth Control","Gaining weight and losing sex drive",Apri,5.927
+18,Female,None,"Birth Control","Satisfied with the product",Implanon,8.0775
+35,Female,None,"Acne","Used the medication for skin clarity",Benzoyl peroxide / erythromycin,6.924
+50,Female,None,"Giardiasis","Patient looking forward to finishing the treatment course",Metronidazole,1.003
+30,Female,None,"Weight Loss","Forgot to eat due to suppressed appetite",Qsymia,9.6575
+35,Female,None,"Depression","Undergoing therapy along with the medication",Lexapro,8.893
+40,Female,None,"Fibromyalgia","Less overall body pain and dizziness",Lyrica,7.2285
+40,Female,None,"Depression","Felt the cloud of depression lift after treatment",Trintellix,1.522
+50,Female,None,"Diverticulitis","Aware of the medication's history with alcoholics",Metronidazole,1.9335
+35,Female,None,"Anxiety","Started taking medication after suffering since childhood",Klonopin,4.4865
+28,Female,None,"Anxiety","Experienced severe insomnia and lack of appetite",BuSpar,0.7495
+35,Male,None,"Influenza","Started feeling relief on the second day",Oseltamivir,1.285
+35,Female,None,"Abnormal Uterine Bleeding","Switched from a different birth control method",Seasonique,1.478
+45,Female,None,"Anxiety","Living with anxiety for many years",Niravam,9.645
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+55,Male,Truvada,"HIV Infection","HIV positive since 1987",Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,7
+22,Female,None,"Emergency Contraception","Concerned about menstrual cycle changes",Plan B One-Step,7
+30,Female,None,"Birth Control","On Nexplanon since 2012",Etonogestrel,2
+27,Female,None,"Birth Control","Experiencing regular headaches",Chateal,7
+35,Female,None,"Migraine","Doctor suggested specific dosage limits",Rizatriptan,1
+29,Female,None,"Birth Control","Chose this option for non-hormonal method",ParaGard,0
+22,Male,None,"Social Anxiety Disorder","Combining with Klonopin",Strattera,3
+30,Female,None,"Vaginal Yeast Infection","Using this treatment recently",Monistat 7-Day Combination Pack,1
+28,Female,None,"Acne","Started with a lower dose initially",Spironolactone,8
+40,Female,None,"Herpes Simplex, Suppression","First outbreak at age 19",Valacyclovir,2
+38,Male,None,"Depression","Believes it's the best option",Tramadol,1
+30,Female,None,"Muscle Spasm","Helps alleviate back pain",Cyclobenzaprine,3
+35,Female,None,"Anxiety","Started noticing improvement quickly",Escitalopram,7
+23,Female,None,"Birth Control","Had been on the patch for a couple of years",Ethinyl estradiol / norelgestromin,5
+25,Female,None,"Birth Control","Using for over a year",Sprintec,7
+45,Female,None,"Pulmonary Hypertension","Doctor adjusting dosage after 2 weeks",Uptravi,0
+30,Female,None,"Migraine","Alternates with other over-the-counter meds",Eletriptan,9
+48,Male,None,"Rheumatoid Arthritis","Has a pre-existing condition",Prednisone,4
+28,Female,None,"Birth Control","Initially hesitant due to online reviews",Skyla,0
+23,Female,None,"Acne","Struggled with self-esteem due to acne",Isotretinoin,2
+45,Male,None,"High Blood Pressure","Overweight and experiencing joint pain",Lisinopril,3
+35,Female,None,"Bladder Infection","Frequent kidney stones",Nitrofurantoin,6
+50,Female,None,"Depression","Transitioned from another medication",Wellbutrin,0
+42,Female,None,"Rosacea","Previously used a discontinued brand",Rosula,4
+33,Female,None,"Obesity","Lost significant weight using this medication",Qsymia,9
+70,Female,None,"High Blood Pressure","Had dizziness and sleepiness",Methyldopa,9
+29,Female,None,"Birth Control","Chose this option for non-hormonal reasons",ParaGard,0
+38,Female,None,"Depression","Tried multiple medications over the years",Fetzima,7
+40,Male,None,"Constipation, Chronic","Experiencing IBS-C relief",Linaclotide,2
+27,Female,None,"Birth Control","Found it suitable for current situation",Levonorgestrel,1
+45,Female,None,"Bladder Infection","Frequent urination due to condition",Nitrofurantoin,3
+50,Female,None,"Breast Cancer","Experiencing hip and hand problems",Arimidex,0
+18,Female,None,"Depression","Dealing with anxiety alongside",Bupropion,9
+35,Female,None,"Nausea/Vomiting","Struggles with severe emetophobia",Ondansetron,0
+29,Female,None,"Insomnia","Concerned about potential dependency",Eszopiclone,8
+25,Female,None,"Birth Control","Gained weight over time using it",Mononessa,0
+30,Male,None,"Seizure Prevention","Sensitive to dosage changes",Topiramate,0
+28,Female,None,"Birth Control","Doesn't experience headaches",Implanon,2
+33,Female,None,"Abnormal Uterine Bleeding","Has high blood pressure",Norethindrone,7
+27,Female,None,"Abnormal Uterine Bleeding","Switched doctors for new treatment",Medroxyprogesterone,7
+45,Female,None,"Osteoarthritis","Hoping for more long-term relief",Synvisc-One,6
+24,Female,None,"Birth Control","Started using it for heavy periods",Xulane,1
+38,Male,None,"Major Depressive Disorder","Recently resumed this medication",Remeron,9
+40,Female,None,"Borderline Personality Disorder","Noticed immediate relief in symptoms",Quetiapine,9
+45,Female,None,"Depression","Has a supportive team of doctors",Viibryd,7
+35,Female,None,"Migraine Prevention","Had to discontinue due to side effects",Pamelor,0
+32,Female,None,"Depression","Occasionally uses for dental anxiety",Xanax,8
+28,Female,None,"Birth Control","Plans to switch soon",Ethinyl estradiol / norethindrone,1
+26,Female,None,"Birth Control","Experiencing mood swings and low sex drive",Etonogestrel,3
+45,Male,None,"Muscle Spasm","Minimizes spasms and nerve pain",Orphenadrine,2
+50,Male,None,"Rheumatoid Arthritis","Had heart surgery after starting medication",Etanercept,1
+40,Female,None,"Weight Loss","Experienced significant binge eating before",Bupropion / naltrexone,9
+50,Female,None,"Fibromyalgia","Finds it effective for pain relief",Milnacipran,3
+38,Male,None,"Bipolar Disorder","Using alongside other treatments",Klonopin,5
+55,Male,None,"Smoking Cessation","Smoked for over 40 years",Chantix,9
+45,Female,None,"Osteoarthritis","Needed help with severe pain",Acetaminophen / codeine,6
+45,Male,None,"Rat-bite Fever","Had success with this medication",Penicillin v potassium,5
+35,Female,None,"Smoking Cessation","Experienced severe side effects",Varenicline,0
+42,Female,None,"Obesity","Lost significant weight using this medication",Bupropion / naltrexone,9
+30,Female,None,"Birth Control","Happy with the choice and its effects",Implanon,8
+13,Female,None,"Constipation","Had a strong reaction to the medication",Bisacodyl,7
+71,Male,None,"COPD, Maintenance","Life improved dramatically",Advair Diskus,5
+35,Male,None,"Erectile Dysfunction","Started having issues at age 32",Cialis,2
+17,Female,None,"Birth Control","Switched from pill to patch",Ethinyl estradiol / norelgestromin,9
+40,Male,None,"Not Listed","Has a regular exercise routine",Tadalafil,5
+50,Female,None,"Bipolar Disorder","Experienced insomnia as a side effect",Olanzapine,5
+42,Male,None,"Erectile Dysfunction","Follows a specific dosage timing",Tadalafil,8
+45,Male,None,"Seizure Prevention","Keeps symptoms under control",Klonopin,5
+56,Female,None,"Rheumatoid Arthritis","Experienced flare-ups after stopping",Humira,9
+35,Female,None,"Anxiety","Feeling more relaxed and calm",Alprazolam,8
+40,Female,None,"Anxiety","Helps manage agoraphobia",Clonazepam,8
+30,Female,None,"Alopecia","Noticed significant hair regrowth",Minoxidil,2
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+30,Female,None,"Anxiety","Afraid of big crowds before starting medication",Escitalopram,9.4
+40,Female,None,"Anxiety","Finds it fast and effective",Ativan,5.0
+28,Male,None,"ADHD","First medication used for adult ADHD",Atomoxetine,7.6
+25,Female,None,"Birth Control","Noticed weight loss and lighter periods",Implanon,9.5
+35,Female,None,"Obesity","Has Polycystic Ovarian Syndrome",Lorcaserin,9.4
+20,Female,None,"Birth Control","Experienced slight acne breakout",Ethinyl estradiol / etonogestrel,1.5
+50,Female,None,"Pain","Can now play with kids and maintain household",Oxymorphone,9.8
+23,Male,None,"Obsessive Compulsive Disorder","Taking medication for almost 2 years",Sertraline,1.0
+30,Female,None,"Birth Control","Has had two light periods in a year",Nexplanon,2.6
+35,Female,None,"Bipolar Disorder","On disability for 10 years",Saphris,7.7
+45,Male,None,"Overactive Bladder","Can now sleep through the night",Mirabegron,9.4
+40,Male,None,"Peripheral Neuropathy","Had chronic back pain for years",Gabapentin,2.4
+40,Male,None,"Pain","Had 3 refills due to medication wastage",Pramoxine,7.9
+55,Male,None,"Glaucoma, Open Angle","Developed an allergic reaction",Alphagan P,3.0
+38,Male,None,"Major Depressive Disorder","Was on Zoloft before switching to current medication",Venlafaxine,9.7
+27,Female,None,"Birth Control","Gained weight over 3 years",Etonogestrel,9.2
+30,Female,None,"Constipation","Used medication once, felt bloating go away",Phillips' Milk of Magnesia,7.9
+19,Female,None,"Birth Control","Too young for more children at the moment",Etonogestrel,9.5
+35,Female,None,"Depression","Experienced jaw clenching after first use",Citalopram,7.0
+40,Male,None,"Irritable Bowel Syndrome","Has had IBS whole life, tried various diets",Eluxadoline,9.6
+30,Female,None,"Depression","Experienced slight increase in motivation",Duloxetine,9.3
+40,Male,None,"Cough","Has chronic bronchitis, finds medication effective",Benzonatate,7.9
+25,Female,None,"Birth Control","Face got smoother after 3 weeks",Ethinyl estradiol / levonorgestrel,8.2
+30,Female,None,"Onychomycosis, Toenail","Developed diarrhea after 2 months of treatment",Terbinafine,7.9
+40,Female,None,"Cluster Headaches","Only medicine that worked for headaches",Indomethacin,5.0
+40,Male,None,"Depression","Felt great and active after starting medication",Wellbutrin,7.3
+30,Female,None,"Anxiety","Started with an SSRI before this medication",Klonopin,9.3
+45,Female,None,"Bipolar Disorder","Has mild dry eye disease",Latuda,0.3
+35,Female,None,"Weight Loss","Lost 6 pounds in 3.5 weeks",Belviq,2.8
+40,Female,None,"Ulcerative Colitis","Medication is easier to manage, taken in the morning",Mesalamine,8.5
+27,Female,None,"Birth Control","Rarely had periods for the first 1.5 years",Etonogestrel,0.3
+32,Female,None,"Bacterial Skin Infection","Widow and single mom, found medication effective",Sulfamethoxazole / trimethoprim,9.9
+25,Female,None,"Emergency Contraception","Had mild cramps after taking medication",Plan B,0.9
+60,Male,None,"Psoriatic Arthritis","Experienced improvement in arthritis pain",Apremilast,0.2
+40,Male,None,"Smoking Cessation","Stopped smoking for no reason without trying",Bupropion,3.8
+50,Female,None,"Back Pain","Scheduled for another fusion surgery",Norco,2.7
+35,Female,None,"Depression","Cried before doctor's appointment",Celexa,0.1
+40,Female,None,"Weight Loss","Lost 51 pounds in 8 months",Phentermine / topiramate,8.8
+30,Female,None,"Emergency Contraception","Period arrived 2 days late after taking medication",ella,0.1
+45,Female,None,"Fibromyalgia","Was part of a study to get medication approved",Savella,8.5
+22,Female,None,"Birth Control","Periods became heavier and caused cramps",Levonorgestrel,0.8
+20,Female,None,"Constipation","Felt better after first bowel movement",Bisacodyl,8.6
+45,Female,None,"Depression","Lost significant hair since starting medication",Sertraline,0.3
+35,Male,None,"Opiate Dependence","Able to coach daughter's softball",Buprenorphine / naloxone,9.2
+30,Female,None,"Opiate Dependence","Was nervous before getting the shot",Vivitrol,4.1
+25,Female,None,"Birth Control","Acne worsened over the last 6 months",Ortho Cyclen,5.1
+28,Male,None,"Panic Disorder","Used medication as a crutch for a couple of weeks",Clonazepam,1.1
+30,Female,None,"Asthma, Maintenance","Lives in the UK where the medication has a different name",Advair HFA,2.5
+50,Female,None,"Breast Cancer","Misses full eyebrows since treatment",Anastrozole,0.6
+55,Female,None,"Deep Vein Thrombosis","Felt normal after switching from Coumadin",Xarelto,9.3
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+45,Male,None,"Opiate Withdrawal","Tapering off hydrocodone after 4 years",Catapres,9
+28,Female,None,"Birth Control","Started as a teenager, enjoys the convenience",NuvaRing,7
+38,Male,None,"Major Depressive Disorder","In a new relationship, joined a depression study",Sertraline,3
+30,Female,None,"Fibromyalgia","Has hypersensitivity to touch and textures",Cyclobenzaprine,1
+55,Female,None,"Hepatitis C","Had the condition for over 30 years",Harvoni,10
+50,Female,None,"GERD","Only medication that worked for the condition",Lansoprazole,5
+30,Female,None,"Birth Control","Used depo for about two years",Medroxyprogesterone,9
+45,Male,None,"Smoking Cessation","Started smoking in June, quit by July",Varenicline,1
+35,Female,None,"Bacterial Skin Infection","Had an abscess burst on the first night of treatment",Sulfamethoxazole / trimethoprim,2
+28,Female,None,"Birth Control","Switched from another pill",Ethinyl estradiol / norgestimate,10
+50,Male,None,"Restless Legs Syndrome","Sinemet works best among prescribed drugs",Carbidopa / levodopa,9
+40,Male,None,"Muscle Aches and Pains","Cannot function without this medication",Hydrocodone,4
+50,Male,None,"Chronic Pain","Taking Vicodin for nearly 20 years",Morphine,1
+70,Female,None,"Constipation, Drug-Induced","Helping care for an elderly family member",Relistor,10
+30,Female,None,"Chlamydia Infection","Multiple failed attempts with other treatments",Doxycycline,5
+25,Female,None,"Birth Control","Recently had Skyla inserted",Skyla,1
+21,Female,None,"Birth Control","Diagnosed with blood clots in lungs",Ethinyl estradiol / norgestimate,1
+19,Female,None,"Ulcerative Colitis, Active","Diagnosed recently, finds relief with the medication",Mesalamine,3
+25,Female,None,"Birth Control","Missed some pills previously",Ortho Tri-Cyclen Lo,5
+50,Female,None,"Glioblastoma","Wasn't expected to survive but showing improvement",Bevacizumab,7
+28,Female,None,"Abnormal Uterine Bleeding","Experiences moodiness before periods",Ethinyl estradiol / levonorgestrel,2
+40,Female,None,"Computed Tomography","Experienced mild side effects with the preparation drink",Barium sulfate,8
+55,Male,None,"High Blood Pressure","Finally found a medication that works",Azor,10
+35,Female,None,"Bronchitis","Experienced severe chest burning and coughing",Azithromycin,1
+29,Female,None,"Bowel Preparation","Had a successful colonoscopy prep experience",Suprep Bowel Prep Kit,1
+30,Female,None,"Urinary Tract Infection","Allergic to sulfa medications",Nitrofurantoin,1
+45,Female,None,"Allergic Rhinitis","Has used various antihistamines over the years",Azelastine / fluticasone,8
+30,Female,None,"Vaginal Yeast Infection","Immediate intense discomfort after using product",Miconazole,2
+40,Female,None,"Depression","Noticed improvements after 4 weeks",Sertraline,1
+65,Female,None,"Herpes Zoster, Prophylaxis","Experienced vertigo and mild nausea",Zoster vaccine live,5
+50,Male,None,"Supraventricular Tachycardia","Switched from Atenolol due to side effects",Diltiazem,8
+40,Female,None,"Bacterial Infection","Undergoing 10-day treatment",Clindamycin,1
+53,Female,None,"Smoking Cessation","Stopped smoking after 5 weeks on medication",Chantix,7
+25,Female,None,"Birth Control","Switched from Sprintec to Tri-Previfem",Tri-Previfem,7
+54,Male,None,"Anesthesia","Had a routine colonoscopy with no discomfort",Propofol,9
+40,Female,None,"ADHD","Participated in Strattera study previously",Amphetamine / dextroamphetamine,5
+28,Male,None,"Acne","Tried multiple treatments over 15 years",Dapsone,9
+55,Male,None,"Indigestion","Found quick relief with the medication",Bismuth subsalicylate,7
+60,Male,None,"Gout, Acute","Skeptical about taking medication due to past experience",Indomethacin,9
+45,Female,None,"Major Depressive Disorder","Trying different medications for MDD",Wellbutrin XL,7
+30,Female,None,"Depression","Previously on various antidepressants",Zoloft,6
+38,Male,None,"Schizoaffective Disorder","Currently taking Invega for concentration",Ziprasidone,1
+50,Male,None,"Skin or Soft Tissue Infection","Experienced flare-ups multiple times",Levofloxacin,3
+60,Female,None,"Nocturnal Leg Cramps","Best relief found among tried medications",Carisoprodol,6
+30,Male,None,"Anxiety","Recently prescribed medication for social anxiety",Lexapro,2
+35,Female,None,"Generalized Anxiety Disorder","Noticed improvements after dosage increase",Paroxetine,10
+45,Female,None,"Urticaria","Developed rash and inflammation",Xyzal,4
+83,Male,None,"Allergic Rhinitis","Had a severe reaction to the medication",Olopatadine,1
+55,Female,None,"Bowel Preparation","Experienced an ineffective prep for colonoscopy",Citric acid / magnesium oxide / sodium picosulfate,1
+38,Female,None,"Migraine","Tried various medications for relief",Relpax,4
+25,Female,None,"Birth Control","Switched from another pill due to side effects",Apri,10
+28,Male,None,"Anxiety","Medication worked for his anxiety attacks",Lexapro,3
+40,Male,None,"Anxiety","Attributed anxiety to hormonal changes",Venlafaxine,4
+20,Female,None,"Birth Control","Experienced migraines and cramps",Ethinyl estradiol / norethindrone,1
+50,Male,None,"Multiple Sclerosis","Noticed quality of life improvements",Dalfampridine,9
+30,Female,None,"Anxiety","Had a severe panic attack, couldn't do daily tasks",Paroxetine,1
+28,Female,None,"Birth Control","Using Implanon for nearly 3 years",Implanon,4
+30,Male,None,"Epilepsy","Using medication since 12 years old",Dilantin,1
+40,Male,None,"Insomnia","Recently increased dosage to 100mg",Quetiapine,2
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+50,Male,None,"Smoking Cessation","Smoked for 32 years before quitting",Varenicline,6
+35,Female,None,"Bipolar Disorder","Mixing medication with Vybriid and Lamictal",Clonazepam,9
+60,Male,None,"Prostate Cancer","Experienced muscle mass loss",Leuprolide,6
+40,Female,None,"Urticaria","Relies on Zyrtec as a primary treatment",Cetirizine,9
+45,Female,None,"Obesity","Lost 5 lbs in 9 days, struggling with side effects",Liraglutide,9
+30,Female,None,"Urinary Tract Infection","Unable to afford regular doctor visits",Macrobid,0.55
+28,Female,None,"Birth Control","No kids, prefers non-hormonal options",Ethinyl estradiol / norethindrone,9
+35,Female,None,"Narcolepsy","Taking Ritalin for 4 years to maintain job",Methylphenidate,7
+40,Female,None,"Anal Fissure and Fistula","Initial severe headaches but found relief",Nitroglycerin,9
+24,Female,None,"Birth Control","Decided on ParaGard as a last try with BC",ParaGard,2
+40,Male,None,"Smoking Cessation","Quit after over 20 years of smoking",Chantix,5
+30,Female,None,"Birth Control","Chose male gynecologist for Mirena insertion",Mirena,1.92
+25,Female,None,"Birth Control","Recently switched from Depo shot",Ortho Evra,0.65
+45,Male,None,"Onychomycosis, Toenail","Difficulty swallowing pills",Terbinafine,0.86
+60,Male,None,"Depression","Suffered severe injuries in a car accident",Celexa,0.84
+35,Female,None,"Narcolepsy","Taking Ritalin for almost 3 years",Ritalin,9
+55,Male,None,"Diabetes, Type 2","Disappointed by discontinuation of medication",Exubera,0.33
+50,Female,None,"Rheumatoid Arthritis","Stopped medication due to vision issues",Hydroxychloroquine,4
+40,Female,None,"Anxiety","Previously struggled with gastrointestinal issues",Trazodone,0.69
+20,Female,None,"Acne","Experienced a significant breakout after starting",Loestrin 24 Fe,6.47
+35,Male,None,"HIV Infection","Noticed cognitive changes while on medication",Genvoya,6.24
+28,Female,None,"Birth Control","Previously on other brands before Enskyce",Enskyce,6.57
+30,Male,None,"Depression","Experienced a calming effect after initial skepticism",Mirtazapine,6.11
+60,Female,None,"Parkinson's Disease","No noticeable side effects",Stalevo,3.52
+30,Female,None,"Birth Control","Noticed significant hair loss after stopping/starting the pill",Ethinyl estradiol / norethindrone,0.08
+25,Female,None,"Birth Control","Experienced dizziness while on medication",Ethinyl estradiol / norethindrone,1.45
+50,Male,None,"Migraine","Long-term user, satisfied with effectiveness",Amerge,5
+40,Male,None,"Anxiety","Developed a rapid heart rate during panic attacks",Lorazepam,0.15
+45,Female,None,"Fibromyalgia","Recently switched from Cymbalta",Milnacipran,8.87
+35,Male,None,"Schizophrenia","Still experiencing psychosis but no depression",Lurasidone,2.63
+30,Female,None,"Birth Control","Experienced minimal pain during insertion",Levonorgestrel,0.80
+40,Female,None,"Constipation, Chronic","Using the medication after years of regular constipation",Lubiprostone,3.04
+50,Female,None,"High Cholesterol","Stopped medication due to hair thinning",Simcor,0.66
+25,Female,None,"Bacterial Vaginitis","Experienced immediate relief but severe side effects",Tinidazole,1.14
+30,Female,None,"Premenstrual Dysphoric Disorder","Feeling calmer with kids and husband",Zoloft,9.50
+26,Female,None,"Birth Control","Had painful insertion but adjusted well",Mirena,9.45
+30,Female,None,"Birth Control","Happy with the choice after having the first child",Levonorgestrel,1.25
+28,Female,None,"Birth Control","Used to regulate the menstrual cycle",Sprintec,0.21
+45,Female,None,"Multiple Sclerosis","Diagnosed at age 32, using Avonex for over 10 years",Avonex Pen,9.69
+30,Female,None,"Weight Loss","Lost 5 lbs in the first two weeks",Lorcaserin,9.87
+50,Male,None,"Chronic Pain","Gained life back after starting medication",Methadose,3.81
+30,Female,None,"Chlamydia Infection","Ate chicken nuggets before feeling nauseous",Azithromycin,1.22
+35,Female,None,"Vaginal Yeast Infection","Experienced severe itching with over-the-counter treatment",Miconazole,2.13
+35,Male,None,"Chronic Pain","Was in a car accident and had spine misalignment",Acetaminophen / oxycodone,0.20
+30,Female,None,"Influenza","Noticed improvement after just 3 doses",Oseltamivir,6.34
+30,Male,None,"HIV Infection","Discovered status in 2017, tracking improvements",Abacavir / dolutegravir / lamivudine,9.25
+35,Female,None,"Migraine","Medication prevents severe migraines",Sumatriptan,0.35
+45,Female,None,"Generalized Anxiety Disorder","Started on 5 mg dose, feeling hopeful",Paxil,8.89
+50,Female,None,"Migraine","Debilitating migraines for over 25 years",Cambia,9.80
+45,Male,None,"Psoriasis","Recently started on a higher dose",Methotrexate,7.92
+40,Female,None,"Muscle Spasm","Uses medication to help sleep",Tizanidine,8.89
+28,Female,None,"Acne","Decided to stop the medication after a month",Ethinyl estradiol / norgestimate,0.11
+35,Female,None,"Birth Control","Experienced BV while on Skyla",Skyla,2.38
+21,Male,None,"ADHD","Diagnosed at 21, experienced academic improvements",Adderall,0.54
+40,Male,None,"Fatigue","Short, positive feedback on medication",Amphetamine / dextroamphetamine,6.80
+28,Female,None,"Obesity","Started at 284 lbs, looking for a change",Phentermine,9.27
+35,Female,None,"Chronic Pain","Switched to this medication recently",Exalgo,0.68
+34,Female,None,"Restless Legs Syndrome","Noticed better sleep after starting medication",Ropinirole,6.21
+40,Female,None,"N/A","Noticed medicinal smell in urine",Guaifenesin,6.06
+35,Female,None,"Birth Control","Changed IUD after years without a period",Levonorgestrel,5.93
+40,Female,None,"Panic Disorder","Developed a love-hate relationship with medication",Paroxetine,0.30
+28,Female,None,"Depression","Helped after a traumatic experience",Zoloft,0.19
+30,Female,None,"Panic Disorder","Noticed improvement after 2 weeks",Sertraline,8.63
+45,Female,None,"Urinary Tract Infection","Had MRSA on the face while taking medication",Sulfamethoxazole / trimethoprim,0.03
+32,Female,None,"Birth Control","Finds it awkward not having a period",Etonogestrel,9.71
+35,Female,None,"Anxiety","Medication helped in critical situations",Clonazepam,0.51
+30,Female,None,"Major Depressive Disorder","Noticed improvement after a mood of despair",Desvenlafaxine,4.56
+45,Female,None,"Rosacea","Lives in Australia, found an affordable solution",Minocycline,4.80
+28,Female,None,"Pain","Took medication after wisdom teeth removal",Ketorolac,7.10
+40,Female,None,"Hypersomnia","Taking medication for several years",Nuvigil,9.27
+35,Female,None,"Birth Control","No periods since starting the method",Depo-Provera,8.40
+30,Female,None,"Obesity","Lost 15 lbs in a month",Belviq,2.99
+40,Male,None,"Epilepsy","No seizures since 1983",Tegretol,5.12
+28,Female,None,"Fibromyalgia","Experienced severe headaches when stopping medication",Desvenlafaxine,0.26
+35,Female,None,"Urinary Incontinence","Experienced immediate relief",VESIcare,3.86
+45,Female,None,"Muscle Spasm","MRI reveals badly blown out cervical disc",Tizanidine,0.88
+30,Female,None,"Birth Control","Started for irregular cycle",Ethinyl estradiol / norgestimate,6.43
+40,Female,None,"Depression","Noticed mood improvement but side effects present",Venlafaxine,5.44
+35,Female,None,"Obesity","Lost 34 pounds in 14 weeks",Qsymia,3.06
+28,Female,None,"Obesity","Lost weight but concerned about costs",Belviq,8.68
+35,Female,None,"Weight Loss","Lost 6 pounds in 5 days",Lorcaserin,6.66
+45,Female,None,"Obesity","Unable to lose baby weight after second child",Liraglutide,2.22
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+30,Female,None,"Bipolar Disorder","Became violent and withdrawn before starting medication",Lurasidone,7.51
+18,Female,None,"Endometriosis","Started puberty at a young age, has had multiple surgeries",Depo-Provera,0.12
+31,Female,"Doxycycline","Acne","Has had acne since teenage years, happy with clear skin now",Epiduo,9.01
+67,Male,None,"Heart Attack","Underwent quad CABG surgery and stent placement",Plavix,8.40
+40,Male,None,"Depression","Traveled abroad for a medical procedure on carotid veins",Venlafaxine,5.0
+35,Female,None,"Depression","Hospitalized due to severe reaction",Desvenlafaxine,8.18
+40,Female,None,"Urinary Tract Infection","Experienced severe tendon swelling",Levofloxacin,3.09
+45,Female,None,"Anxiety","Used for over five years to reduce shyness and anxiety",Paxil,1.65
+38,Female,None,"Insomnia","Finds it hard to wake up in the morning after taking the medication",Quetiapine,6.25
+28,Female,None,"Major Depressive Disorder","Struggled with severe depression and suicidal thoughts",Vortioxetine,0.54
+67,Male,None,"High Cholesterol","Experienced severe muscle aches after starting the medication",Atorvastatin,0.99
+35,Female,None,"Birth Control","Had painful and lengthy periods before starting the medication",Dienogest / estradiol,0.21
+35,Female,None,"Depression","Experienced unusual sensations like a 'dehydrated brain'",Wellbutrin,0.74
+50,Male,None,"Gout, Acute","Tried multiple medications before finding relief",Methylprednisolone,5.0
+55,Female,None,"High Blood Pressure","Feels weak and 'spacey' on this medication",Amlodipine,1.42
+62,Male,None,"Erectile Dysfunction","Has a very active sex life",Tadalafil,8.73
+50,Female,None,"Pain","Suffered a severe ankle injury over a decade ago",Norco,3.75
+45,Female,None,"Anxiety and Stress","Recently switched from a different medication",Sertraline,3.39
+60,Female,None,"COPD","Experienced weight loss and stomach issues initially",Roflumilast,3.40
+40,Male,None,"Depression","Felt a noticeable improvement within the first few days",Pristiq,2.15
+30,Female,None,"Birth Control","Noticed significant weight gain",Minastrin 24 Fe,6.01
+38,Male,None,"Pain","Required adhesive assistance to keep the patch in place",Diclofenac,1.78
+30,Female,None,"Birth Control","Experienced severe cramping after insertion",Levonorgestrel,0.27
+29,Female,None,"Birth Control","Developed severe cystic acne after several months",Nexplanon,0.29
+40,Male,None,"Pain","Recently switched back to a previous medication",Opana,8.67
+50,Female,None,"Diabetes, Type 2","Struggled with self-administering insulin injections",Dulaglutide,9.71
+40,Female,None,"Duodenal Ulcer","Managed to get a prescription for free using a drug assist program",Donnatal,7.20
+24,Female,None,"Acne","Tried several treatments before considering birth control",Beyaz,9.88
+25,Female,None,"Birth Control","Experienced pain and various physical changes after the injection",Depo-Provera,0.05
+22,Female,None,"Birth Control","Took the medication to regulate periods",TriNessa,1.01
+40,Female,None,"Migraine Prevention","Gained significant weight after starting the medication",Depakote ER,8.36
+60,Female,None,"Alzheimer's Disease","Observed behavioral changes in her mother while on the medication",Donepezil,9.16
+50,Female,None,"Hepatitis C","Expresses gratitude for the treatment",Sofosbuvir,9.20
+30,Female,None,"Birth Control","Noticed immediate changes in mood and physical symptoms",Drospirenone / ethinyl estradiol,0.69
+20,Female,None,"Vaginal Yeast Infection","Experiencing a yeast infection for the first time",Monistat 7,0.58
+35,Female,None,"Insomnia","Found the generic version ineffective",Zolpidem,0.60
+40,Female,None,"Depression","Felt more energetic and positive within a few days",Wellbutrin,9.23
+50,Female,None,"Restless Legs Syndrome","Enjoys a better sleep since starting the medication",Horizant,8.35
+40,Female,None,"Sinusitis","Started feeling better within two days",Cefdinir,9.19
+35,Female,None,"Abnormal Uterine Bleeding","Avoided hysterectomy with this treatment",Mirena,9.71
+60,Female,None,"COPD, Maintenance","Noticed significant breathing improvement",Brovana,6.91
+30,Female,None,"Constipation","Relieved with the medication",Dulcolax,6.81
+50,Female,None,"Insomnia","Stopped taking due to reports of dementia risk",Tylenol PM,0.46
+40,Male,None,"Obesity","Experienced weight loss after two weeks",Saxenda,8.45
+25,Female,None,"Birth Control","Experienced intense cramping after insertion",Levonorgestrel,9.30
+60,Female,None,"Pain","Severe pain affected the quality of life",Percocet,1.82
+50,Female,None,"Rheumatoid Arthritis","Suffered a fall due to dizziness",Sulfasalazine,2.99
+35,Male,None,"Hyperhidrosis","Significant improvement in confidence and quality of life",Aluminum chloride hexahydrate,5.81
+40,Female,None,"Smoking Cessation","Found patches effective in quitting smoking",Nicotine,8.38
+38,Female,None,"Migraine","Experienced relief without additional medications",Reglan,6.19
+45,Female,None,"Sinusitis","Developed side effects during treatment",Levofloxacin,0.80
+50,Male,None,"Pain","Stopped using due to lack of relief",Acetaminophen / hydrocodone,0.77
+35,Female,None,"Pain","Relieved after a combination of medications",Toradol,0.10
+35,Female,None,"Birth Control","Developed pregnancy-like symptoms after a few years",Nexplanon,9.24
+40,Male,None,"Major Depressive Disorder","Struggles with increased appetite",Seroquel XR,9.16
+22,Female,None,"Emergency Contraception","Took the pill within 24 hours after an incident",Plan B,8.01
+50,Male,None,"Asthma, Maintenance","Switched from a different medication",Dulera,3.97
+25,Female,None,"Birth Control","Takes it at the same time every day",Mibelas 24 Fe,7.47
+40,Female,None,"Depression","Experienced improvement in social life",Cymbalta,7.92
+53,Female,None,"Anxiety","Developed panic attacks post-thyroidectomy",Ativan,0.58
+35,Female,None,"Generalized Anxiety Disorder","Felt improvements after a low dose",Escitalopram,1.61
+38,Male,None,"Opiate Dependence","Struggles with cravings despite the treatment",Naltrexone,2.99
+28,Female,None,"Birth Control","Experienced vivid nightmares and mood swings",Portia,2.62
+40,Male,None,"Insomnia","Falls asleep quickly after taking the medication",Temazepam,6.70
+25,Female,None,"Acne","Noticed worsening acne initially",Clindamycin / tretinoin,5.95
+40,Male,None,"Pain","Prefers hospital pharmacies for harder-to-find medications",Meperidine,2.54
+30,Female,None,"Anxiety","Felt more tired than usual",Hydroxyzine,7.01
+21,Female,None,"Anesthesia","Underwent surgery for the first time",Propofol,9.80
+40,Female,None,"Migraine","Experienced a complete stop of migraines after treatment",Gabapentin,0.64
+30,Female,None,"Birth Control","Diagnosed with depression and anxiety",Nexplanon,0.38
+25,Female,None,"Birth Control","Experienced significant weight gain and emotional changes",Ethinyl estradiol / norgestrel,0.12
+35,Female,None,"Migraine Prevention","Stopped due to memory and concentration issues",Topamax,5.40
+50,Male,None,"Diabetes, Type 2","Experienced hair loss during treatment",Dapagliflozin,0.56
+45,Female,None,"Overactive Bladder","Felt more confident leaving the house",Myrbetriq,7.02
+40,Female,None,"Anxiety and Stress","Noticed mood swings at work",Prozac,7.76
+18,Male,None,"Bipolar Disorder","Reluctant to take medication due to enjoyment of manic episodes",Aripiprazole,9.36
+53,Female,None,"Anxiety","Feels lost without previous medication",Diazepam,1.48
+40,Male,None,"Pain","Uses it in combination with other medications for relief",Hysingla ER,9.89
+30,Female,None,"Anxiety and Stress","Had a difficult start with the medication",Celexa,0.19
+35,Female,None,"Weight Loss","Focused on health after having four children",Belviq,5.64
+38,Female,None,"Weight Loss","Experienced extreme fatigue initially",Lorcaserin,0.90
+51,Male,None,"Atrial Fibrillation","Dislikes taking continuous medication",Propafenone,1.32
+40,Female,None,"Chronic Pain","Relies on medication to function daily",OxyContin,2.08
+35,Female,None,"Insomnia","Discontinued due to a bad taste after taking",Lunesta,0.17
+30,Female,None,"Nausea/Vomiting","Overcame fear of new medication",Ondansetron,4.98
+28,Female,None,"Birth Control","Happy with the switch from a different brand",Ethinyl estradiol / levonorgestrel,7.80
+45,Female,None,"Pain","Found relief for severe back and feet pains",Acetaminophen / hydrocodone,1.60
+30,Female,None,"Birth Control","Does not experience periods anymore",Liletta,0.12
+35,Female,None,"Chlamydia Infection","Symptoms persisted after treatment",Azithromycin,5.0
+40,Female,None,"Urinary Tract Infection","Experienced severe migraines during treatment",Trimethoprim,1.11
+45,Male,None,"Basal Cell Carcinoma","Noticed changes in skin texture years after use",Fluorouracil,5.0
+30,Female,None,"Birth Control","Periods became longer and irregular",Ortho Micronor,7.23
+40,Male,None,"GERD","Feels free to eat certain foods without worry",Prevacid,8.86
+21,Female,None,"Acne","Improvement after using multiple treatments together",Doxycycline,4.37
+50,Male,None,"Anesthesia","Positive experience during joint replacement surgery",Propofol,9.45
+25,Female,None,"Birth Control","Experienced heavy flow and cramps",Sprintec,0.56
+40,Female,None,"Overactive Bladder","Had multiple unsuccessful treatments before finding relief",OnabotulinumtoxinA,2.77
+30,Female,None,"Diabetes, Type 2","Lost weight and reduced insulin dosage",Dulaglutide,3.09
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+9,Male,None,"ADHD","Effectiveness seemed to decline over time",Aptensio XR,3.358
+50,Female,None,"Barrett's Esophagus","Long-term management of condition",Omeprazole,0.926
+30,Male,None,"Androgenetic Alopecia","Started seeing noticeable hair growth",Finasteride,5.7555
+40,Male,None,"Benign Prostatic Hyperplasia","Noticed changes in personal life",Rapaflo,9.337
+50,Female,None,"Osteoarthritis","Commented on the pricing of the treatment",Duexis,5.0
+25,Female,None,"Acne","Mentioned lifestyle changes affecting skin",Clindamycin / tretinoin,1.6145
+21,Female,None,"Birth Control","Has been using since a specific month",Ethinyl estradiol / etonogestrel,2.8055
+30,Male,None,"ADHD","Experienced changes after a few years of use",Adderall,1.3245
+50,Female,None,"Influenza","Relief noticed after starting the treatment",Tamiflu,9.5725
+57,Female,None,"Depression","Faced family health and emotional challenges",Viibryd,8.5725
+45,Female,None,"Insomnia","Noticed a change in dreams while on treatment",Rozerem,8.7465
+45,Male,None,"Hypothyroidism, After Thyroid Removal","Still adjusting to the correct dosage",Synthroid,7.3295
+36,Male,None,"Bipolar Disorder","Gained significant weight since starting treatment",Seroquel,8.222
+45,Male,None,"Seizures","Discussed with doctor about current symptoms",Levetiracetam,3.0405
+30,Female,None,"Acne","Experienced an initial worsening of condition",Differin,0.583
+40,Male,None,"Opiate Dependence","Transitioning from a previous high dosage",Buprenorphine / naloxone,9.82
+35,Female,None,"Depression","Had a specific reaction to the treatment",Doxepin,1.1725
+25,Female,None,"Emergency Contraception","Shared a personal story about the experience",Levonorgestrel,1.886
+21,Female,None,"Birth Control","Used since a young age and noticed changes",Tri-Sprintec,2.8995
+30,Female,None,"Birth Control","Discussed the impact on personal relationships",Etonogestrel,8.937
+17,Female,None,"Birth Control","Experienced some noticeable physical changes",Etonogestrel,2.994
+30,Female,None,"Birth Control","Experienced different periods after switching",Ethinyl estradiol / levonorgestrel,5.0
+18,Female,None,"Obesity","Started a weight loss journey at a young age",Orlistat,7.1005
+35,Female,None,"Obesity","Started a low-carb diet alongside treatment",Qsymia,7.142
+40,Female,None,"Depression","Switched from another medication recently",Nuvigil,0.6105
+25,Female,None,"Depression","Discussed the impact on daily functioning",Vortioxetine,3.1025
+30,Female,None,"Birth Control","Has had a positive experience with usage",Lo Loestrin Fe,9.6845
+30,Male,None,"Bipolar Disorder","Experienced some restlessness after taking",Ziprasidone,1.4985
+25,Female,None,"Birth Control","Discussed an increase in stress during usage",Levonorgestrel,0.2119
+35,Female,None,"Birth Control","Experienced a weight change during usage",Ethinyl estradiol / levonorgestrel,9.1145
+40,Male,None,"Headache","Found a new medication for long-standing issue",Acetaminophen / dichloralphenazone / isometheptene mucate,5.433
+50,Male,None,"Ankylosing Spondylitis","Returned to physical activity after starting treatment",Etanercept,2.1405
+25,Female,None,"Postpartum Depression","Mentioned an important life event during treatment",Citalopram,1.2525
+35,Female,None,"Depression","Changed medications due to specific concerns",Desvenlafaxine,1.0775
+40,Male,None,"High Cholesterol","Noticed an immediate change in levels",Crestor,4.36
+75,Female,None,"Restless Legs Syndrome","Noticed the impact when medication ran out",Pramipexole,7.0085
+50,Female,None,"Opioid Overdose","Had a life-saving experience in the ER",Narcan Injection,3.8685
+50,Male,None,"Erectile Dysfunction","Found it challenging to explain certain topics",Sildenafil,5.386
+40,Male,None,"Insomnia","Adjusted daily routine to accommodate treatment",Eszopiclone,5.386
+60,Male,None,"High Cholesterol","Has been using the treatment for a long time",Lipitor,5.0
+35,Female,None,"Birth Control","Had changes with physical health after switching back",Yasmin,1.25
+40,Female,None,"Smoking Cessation","Reached a personal milestone after quitting",Chantix,9.8055
+45,Female,None,"Bladder Infection Prevention","Uses the medication after certain activities",Macrodantin,6.439
+35,Female,None,"Weight Loss","Started taking treatment on a specific date",Phentermine,9.4715
+50,Female,None,"Bowel Preparation","Noticed changes in preparation effectiveness",Suprep Bowel Prep Kit,0.395
+45,Male,None,"ADHD","Had emotional reactions while on the treatment",Intuniv,8.247
+30,Female,None,"Depression","Noticed an improvement within a short timeframe",Cymbalta,4.1325
+35,Female,None,"Depression","Used for general improvement in mood",Risperidone,7.4635
+45,Male,None,"GERD","Able to enjoy more food variety after treatment",Pantoprazole,6.806
+30,Female,None,"Infection Prophylaxis","Described a quick and effective result",Sulfamethoxazole / trimethoprim,9.4775
+50,Female,None,"Perimenopausal Symptoms","Noticed a change in daily experiences",Clonidine,5.7755
+40,Female,None,"Depression","Switched to an alternative for cost reasons",Citalopram,2.798
+25,Female,None,"Birth Control","Has been using the treatment for a few months",Etonogestrel,0.1165
+45,Female,None,"Obesity","Lost a significant amount of weight recently",Bupropion / naltrexone,4.198
+30,Female,None,"Seizures","Became hesitant to change current treatment",Keppra,0.231
+35,Female,None,"Birth Control","Wanted a long-term solution after having children",Mirena,9.149
+25,Female,None,"Emergency Contraception","Described the situation leading up to use",Levonorgestrel,1.106
+40,Female,None,"Birth Control","Opted for this method after considering options",Xulane,9.895
+60,Male,None,"Benign Prostatic Hyperplasia","Discussed recent PSA levels",Tamsulosin,7.5115
+45,Male,None,"Depression","Takes other medications alongside for bipolar",Bupropion,7.6335
+45,Female,None,"Fibromyalgia","Had a long history with the condition",Gabapentin,1.175
+40,Male,None,"Anxiety","Found relief through the treatment",Hydroxyzine,9.62
+30,Female,None,"Epilepsy","Experienced memory loss after a few years of use",Keppra XR,0.159
+40,Female,None,"Panic Disorder","Saw improvement in panic attacks over time",Pristiq,7.086
+30,Female,None,"Birth Control","Switched from one implant to another",Etonogestrel,0.671
+45,Female,None,"Cold Sores","Found the treatment cost to be high",Acyclovir,5.9985
+40,Female,None,"Anxiety","Found the treatment helpful with added therapy",Desvenlafaxine,1.748
+65,Female,None,"Hepatitis C","Was grateful for the opportunity to get treated",Ledipasvir / sofosbuvir,9.869
+50,Female,None,"Headache","Uses a specific remedy for chronic condition",Acetaminophen / butalbital / caffeine,1.408
+30,Female,None,"Rosacea","Noticed some improvement with use",MetroCream,8.632
+28,Female,None,"Birth Control","Experienced some discomfort after insertion",Skyla,0.1405
+30,Female,None,"Birth Control","Had significant life changes during usage",Yasmin,0.6655
+45,Female,None,"Weight Loss","Began treatment on a particular date",Phentermine,2.188
+45,Male,None,"Multiple Sclerosis","Has not had symptoms for several years",Copaxone,6.591
+35,Female,None,"Birth Control","Discussed the mood changes after shots",Medroxyprogesterone,1.6365
+50,Female,None,"Bowel Preparation","Described the preparation process in detail",Magnesium sulfate / potassium sulfate / sodium sulfate,7.4395
+35,Female,None,"Birth Control","This was the first birth control method chosen",Ethinyl estradiol / norelgestromin,7.325
+20,Female,None,"Birth Control","Mentioned regular periods due to medication",Aubra,0.8
+30,Female,None,"Bipolar Disorder","Noticed an improvement in anxiety symptoms",Ziprasidone,2.713
+45,Male,None,"Narcolepsy","Used a different medication before switching",Armodafinil,1.1805
+45,Male,None,"Onychomycosis, Toenail","Experienced a change after a few months",Fluconazole,5.0
+40,Female,None,"Pain","Discussed a prescribed dosage regimen",Tylenol,3.093
+5,Female,None,"Swine Flu","Quick recovery observed after medication use",Oseltamivir,2.2035
+50,Male,None,"Pain","Short statement about the condition",Oxymorphone,3.52
+21,Female,None,"Birth Control","Faced unusual physical symptoms during usage",Larin Fe 1.5 / 30,1.8535
+35,Male,None,"Smoking Cessation","Hasn't felt any change in cravings so far",Chantix,2.3665
+45,Male,None,"Bipolar Disorder","Experienced changes in sleep patterns",Quetiapine,7.1705
+60,Female,None,"Dry Eye Disease","Faced challenges using the product properly",Xiidra,0.323
+50,Male,None,"Bowel Preparation","Opted for a specific way to take the preparation",Suprep Bowel Prep Kit,9.1655
+25,Female,None,"Birth Control","Switched from another brand to current treatment",Tri-Sprintec,9.7625
+40,Female,None,"Sinusitis","Described a lengthy illness before starting treatment",Azithromycin,4.9355
+30,Female,None,"Ulcerative Proctitis","Used the treatment a couple of times daily",Pentasa,2.6935
+25,Female,None,"Acne","Had tried several other treatments before this one",Sulfamethoxazole / trimethoprim,0.221
+30,Female,None,"Birth Control","Noticed a change in skin condition after use",Ethinyl estradiol / norethindrone,0.2535
+40,Female,None,"Fibromyalgia","Found relief in improving sleep quality",Amitriptyline,5.129
+31,Female,None,"Acne","Had changes after turning a specific age",Epiduo,8.1635
+50,Male,None,"Rheumatoid Arthritis","Had a significant health event after starting treatment",Enbrel,1.733
+45,Male,None,"Organ Transplant, Rejection Prophylaxis","Has been taking medication for several years",Tacrolimus,1.546
+30,Female,None,"Bipolar Disorder","Faced insurance challenges before getting medication",Lurasidone,0.433
+40,Female,None,"Bowel Preparation","Found an effective way to take the treatment",Polyethylene glycol 3350 with electrolytes,9.1355
+35,Female,None,"Depression","Experienced changes in physical health",Bupropion,0.5045
+30,Female,None,"Generalized Anxiety Disorder","Had mixed experiences with initial treatment",Paxil,3.4645
+25,Female,None,"Birth Control","Switched due to a recommendation by the doctor",Ethinyl estradiol / norethindrone,0.081
+40,Female,None,"Depression","Felt noticeable improvement over a few weeks",Paroxetine,1.178
+30,Male,None,"Anxiety","Experienced changes in physical symptoms",Lexapro,7.1075
+30,Female,None,"Human Papilloma Virus","Described an unexpected source of infection",Imiquimod,6.4525
+50,Female,None,"Depression","Had no impact on mood",Luvox,1.4555
+45,Female,None,"Anxiety","Chose the medication after considering other options",Hydroxyzine,9.803
+60,Male,None,"High Blood Pressure","Noticed changes in cardiovascular health",Lotrel,3.194
+30,Female,None,"Nausea/Vomiting","Used during a specific illness event",Ondansetron,8.8585
+50,Female,None,"Day and Night Sweats","Experiencing frequent symptoms",Conjugated estrogens / medroxyprogesterone,5.0
+35,Female,None,"Reflex Sympathetic Dystrophy Syndrome","Experienced less weight gain than before",Nortriptyline,5.7025
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+60,Female,None,"Osteoarthritis","Planning another booster soon",Sodium hyaluronate,8
+45,Male,None,"Alcohol Withdrawal","Medical professional emphasizing importance of planning",Chlordiazepoxide,9
+50,Male,None,"Narcolepsy","Diagnosed 15 years ago, tried multiple treatments",Adderall XR,8
+30,Female,None,"Birth Control","Recently had ParaGard inserted",Copper,1
+35,Female,None,"Endometriosis","Found relief after years of pain",Ethinyl estradiol / norgestrel,1
+40,Female,None,"Insomnia","Struggling to fall asleep on schedule",Trazodone,5
+28,Female,None,"Birth Control","Has two kids and seeking long-term option",Implanon,9
+38,Male,None,"Benzodiazepine Withdrawal","Cautionary approach to tapering medication",Klonopin,8
+55,Male,None,"Heart Failure","Credits medicine for improved health since 2011",Carvedilol,6
+42,Female,None,"Chronic Constipation","Tweaked dosage timing for better results",Linaclotide,9
+50,Female,None,"Chronic Pain","Suffered from an accident with multiple surgeries",Ultram,1
+30,Female,None,"Social Anxiety Disorder","Had previous experiences with different medications",Paroxetine,9
+22,Female,None,"Acne","Used medication for a year with eventual improvement",Tretinoin,5
+45,Female,None,"Rheumatoid Arthritis","Concerned about new pains and considering discontinuation",Humira,1
+40,Female,None,"Anxiety and Stress","Experienced physical discomfort but continued medication",Prozac,7
+30,Female,None,"Birth Control","Mixed feelings due to body changes",Drospirenone / ethinyl estradiol,2
+40,Female,None,"Epilepsy","Daughter's condition partially controlled with medication",Levetiracetam,6
+35,Female,None,"Irritable Bowel Syndrome","Stopped taking medication due to severe symptoms",Viberzi,0
+55,Female,None,"High Cholesterol, Familial Heterozygous","Medical history of coronary artery disease",Evolocumab,7
+40,Male,None,"Dental Abscess","Visited a new dentist and followed treatment",Metronidazole,0
+30,Female,None,"Chlamydia Infection","Diagnosed during a routine check-up",Doxycycline,4
+25,Female,None,"Birth Control","Switched due to concerns with previous medication",Ethinyl estradiol / norgestimate,0
+28,Female,None,"Birth Control","Prolonged bleeding after first shot",Depo-Provera,8
+38,Female,None,"Bowel Preparation","Took a unique approach to spacing doses",Suprep Bowel Prep Kit,9
+40,Male,None,"Opiate Dependence","Switched from Suboxone for insurance reasons",Buprenorphine / naloxone,7
+45,Female,None,"Pain","Diagnosed with plasmacytoma and underwent radiation therapy",Amitriptyline,5
+30,Female,None,"Birth Control","Suggested as a solution for chronic condition",Levonorgestrel,0
+35,Female,None,"Birth Control","Happy with pill for years",Ethinyl estradiol / levonorgestrel,5
+50,Male,None,"Osteoarthritis","Severe pain after an injection",Synvisc-One,0
+40,Male,None,"HIV Infection","Switched from previous medication due to side effects",Triumeq,1
+28,Female,None,"Birth Control","Loved it but found it too expensive without discount",Lo Loestrin Fe,8
+30,Female,None,"Birth Control","Developed depression after several months",Ethinyl estradiol / levonorgestrel,0
+32,Female,None,"Weight Loss","Aiming for significant weight loss",Phentermine,8
+40,Male,None,"Restless Legs Syndrome","Switched back to previous medication",Gabapentin enacarbil,1
+30,Female,None,"Birth Control","Suffers from PCOS with heavy bleeding",Ethinyl estradiol / norgestimate,7
+50,Female,None,"Diabetes, Type 2","Long-term use without side effects",Glucophage,5
+31,Female,None,"Weight Loss","Started with a significant weight goal",Phentermine,8
+28,Female,None,"Birth Control","Experienced mental health issues",Sprintec,7
+40,Female,None,"Pain","Chronic back pain affecting daily activities",Acetaminophen / oxycodone,0
+50,Female,None,"Bipolar Disorder","Noticed weight gain over a few months",Abilify,8
+30,Female,None,"Birth Control","Experienced weight fluctuations",Implanon,8
+35,Female,None,"Generalized Anxiety Disorder","Increased anxiety after starting medication",Citalopram,0
+28,Female,None,"Bacterial Infection","Experienced multiple symptoms during treatment",Metronidazole,2
+45,Female,None,"Muscle Spasm","Long-term user with positive experience",Soma,8
+30,Female,None,"Nausea/Vomiting","Used during pregnancy and post-surgery",Zofran,1
+55,Female,None,"Back Pain","Looking for stronger relief",Acetaminophen / hydrocodone,2
+69,Male,None,"Back Pain","Manages pain to continue with activities",Acetaminophen / hydrocodone,8
+25,Female,None,"Otitis Media","Took several days to receive appropriate treatment",Antipyrine / benzocaine,1
+40,Female,None,"Underactive Thyroid","Experienced improvement with medication change",Liothyronine,9
+30,Female,None,"Birth Control","Satisfied with experience after initial period",Etonogestrel,5
+45,Male,None,"PE","Finding it beneficial for controlling anxiety",Propranolol,6
+38,Female,None,"Anxiety","Uses medication to manage anxiety",Trazodone,7
+55,Male,None,"High Blood Pressure","Experimented with dosage reduction",Metoprolol,4
+25,Female,None,"Generalized Anxiety Disorder","Noticed reduction in skin picking behavior",Effexor XR,3
+60,Female,None,"Weight Loss","Experienced significant weight loss",Lorcaserin,0
+40,Female,None,"Cough","Finding partial relief with medication",Codeine / guaifenesin,5
+30,Female,None,"Abnormal Uterine Bleeding","Dealing with prolonged bleeding",Depo-Provera,5
+30,Female,None,"Herpes Simplex","Skeptical but found relief with treatment",Docosanol,9
+35,Female,None,"Cough and Nasal Congestion","Family prefers this medication",Q-Tapp DM,8
+28,Female,None,"Emergency Contraception","Panicked but period arrived on time",Levonorgestrel,5
+22,Female,None,"Acne","Struggled with acne since adolescence",Ethinyl estradiol / norgestimate,9
+50,Male,None,"Meniere's Disease","Severe vertigo experienced over months",Valium,9
+24,Female,None,"Birth Control","Considering pros and cons of recent insertion",Skyla,4
+40,Female,None,"Anxiety","Noticed improvement with higher dosage",Pristiq,3
+30,Female,None,"Migraine","Looking for consistent effectiveness",Sumatriptan,5
+30,Female,None,"Emergency Contraception","Felt side effects but the pill worked",Plan B,5
+50,Male,None,"Bipolar Disorder","Credits medication combination for life improvement",Effexor,9
+30,Female,None,"Birth Control","Experienced significant mood changes",Medroxyprogesterone,0
+32,Female,None,"Birth Control","Severe side effects led to removal",Etonogestrel,0
+40,Female,None,"Obesity","Initial success with weight loss",Orlistat,7
+80,Male,None,"Pain","Managing chronic pain with medication",Acetaminophen / hydrocodone,9
+40,Female,None,"Obesity","Noticed significant weight loss during trial period",Lorcaserin,8
+38,Male,None,"HIV Infection","Adjusting to medication effects",Efavirenz,3
+55,Female,None,"Chronic Pain","Had to stop medication after doctor's decision",OxyContin,8
+30,Female,None,"Emergency Contraception","Took the pill twice in a month",Levonorgestrel,4
+28,Female,None,"Anxiety","Felt better initially but had to stop due to side effects",Paroxetine,0
+40,Male,None,"Cough and Nasal Congestion","Experienced drowsiness and jitteriness",Chlorpheniramine / hydrocodone / pseudoephedrine,7
+50,Female,None,"Chronic Pain","Noticed increased tolerance over time",Percocet,4
+28,Female,None,"Vaginal Yeast Infection","Severe reaction requiring medical intervention",Tioconazole,2
+40,Female,None,"Insomnia","Struggled with anxiety and depression",Trazodone,9
+52,Female,None,"Abnormal Uterine Bleeding","Experienced a positive change after insertion",Levonorgestrel,9
+30,Female,None,"Weight Loss","Seeing results with lifestyle changes",Adipex-P,8
+25,Female,None,"Birth Control","Experiencing side effects but finding benefits",Lutera,8
+55,Female,None,"Back Pain","Uses medication to manage pain effectively",Norco,5
+40,Female,None,"Insomnia","Noticed improved sleep with medication",Zolpidem,5
+40,Female,None,"Migraine Prevention","Switched from previous medication for better results",Topiramate,9
+38,Female,None,"Endometriosis","Happy with improvement from treatment",Zoladex,2
+45,Female,None,"Postmenopausal Symptoms","Noticed skin reaction after starting treatment",Estradiol,5
+30,Female,None,"Bipolar Disorder","Using in combination with other medications",Topamax,5
+35,Female,None,"Insomnia","Satisfied with the effectiveness",Trazodone,5
+50,Male,None,"Melanoma, Metastatic","Credits medication with saving life",Keytruda,9
+45,Female,None,"Bowel Preparation","Anxious about first-time experience",Suprep Bowel Prep Kit,0
+55,Male,None,"Erectile Dysfunction","Noticed changes in medication effectiveness",Vardenafil,1
+45,Female,None,"Chronic Pain","Has dealt with back pain for many years",Roxicodone,3
+50,Male,None,"Muscle Spasm","Using in combination with other pain relief",Valium,1
+30,Female,None,"Anxiety","Tried a low dosage without significant results",Alprazolam,6
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+45,Female,None,"Nausea/Vomiting","Found the medication excellent for sleep",Phenergan,7.66
+42,Female,None,"Weight Loss","Has family history of diabetes",Qsymia,9.43
+26,Female,None,"Obsessive Compulsive Disorder","Started experiencing symptoms at age 6",Sertraline,0.64
+30,Female,None,"Birth Control","Experienced a tilted uterus during insertion",Levonorgestrel,9.33
+35,Female,None,"Obesity","Starting dose was recently initiated",Bupropion / naltrexone,5.0
+28,Female,None,"Panic Disorder","Combined with regular medication for anxiety",Buspirone,2.14
+38,Female,None,"Depression","Had been taking medication for 3 years",Duloxetine,9.59
+50,Male,None,"Diabetes, Type 2","Lost 18 pounds with exercise",Empagliflozin / linagliptin,5.25
+27,Female,None,"Birth Control","Not had a period for over 2 months",Etonogestrel,7.99
+30,Female,None,"Birth Control","First time using birth control",Ethinyl estradiol / norethindrone,8.65
+22,Female,None,"Birth Control","Partner experiencing discomfort during intercourse",Levonorgestrel,1.64
+30,Female,None,"Asthma, Maintenance","Asthma worsened every spring",Singulair,8.26
+45,Female,None,"Pain","Mother is taking medication for disc problems",Tramadol,2.99
+30,Female,None,"Anxiety","Experienced severe personal trauma a year prior",Buspirone,0.29
+40,Female,None,"Bipolar Disorder","Started the medication recently",Saphris,3.14
+25,Female,None,"Birth Control","Implanted on Feb. 28, 2013",Nexplanon,8.40
+50,Male,None,"Erectile Dysfunction","Has brief review with minimal details",Viagra,5.0
+50,Male,None,"High Blood Pressure","Struggling with swelling and high blood pressure",Amlodipine,1.24
+30,Female,None,"Ovarian Cysts","Cleared up facial acne as well",Ethinyl estradiol / levonorgestrel,7.61
+45,Female,None,"Fibromyalgia","Started experiencing better sleep after treatment",Duloxetine,4.04
+30,Female,None,"ADHD","Felt improvement in mental focus and attention",Amphetamine / dextroamphetamine,9.60
+50,Male,None,"Non-Hodgkin's Lymphoma","Diagnosed with B Cell Lymphoma",Rituxan,3.80
+30,Female,None,"Birth Control","Had previous issues with nausea on hormonal contraceptives",Levonorgestrel,3.12
+40,Male,None,"Restless Legs Syndrome","Received medication from mother-in-law",Tramadol,5.94
+30,Female,None,"Onychomycosis, Toenail","Been using medication for almost two months",Jublia,6.48
+50,Female,None,"Rheumatoid Arthritis","Tried over 8 medications in 5 years",Etanercept,9.00
+45,Female,None,"Endometriosis","Has been on medication for over 10 years",Medroxyprogesterone,9.01
+35,Female,None,"Opiate Dependence","Received the shot for 18 months",Vivitrol,9.38
+40,Female,None,"Allergic Rhinitis","Previously used medication through Medicaid",Singulair,9.81
+60,Female,None,"COPD","Relies on nebulizing every 8 hours",Fluticasone / vilanterol,2.24
+45,Female,None,"Depression","Started medication recently, still adjusting",Vortioxetine,8.53
+25,Female,None,"Birth Control","First week experienced cystic acne breakout",Ethinyl estradiol / norethindrone,0.52
+28,Female,None,"Birth Control","Noticed increase in anxiety and depression",Nexplanon,2.09
+30,Female,None,"Back Pain","Experienced skin tearing with extended use",Naproxen,8.12
+40,Female,None,"Smoking Cessation","Unintentionally quit smoking by day 9",Varenicline,9.84
+45,Female,None,"Pain","Able to play with her 6-year-old child again",Fentanyl Transdermal System,5.13
+30,Female,None,"Endometriosis","Noticed worsening depression",Sprintec,0.17
+35,Female,None,"Nausea/Vomiting of Pregnancy","Currently in her third pregnancy",Diclegis,8.13
+30,Female,None,"Birth Control","Plans to return to using the pill",Implanon,1.24
+40,Female,None,"Cough","Used medication for pneumonia",Hydromet,2.12
+50,Female,None,"Pain","Finds medication effective for ankylosing spondylitis",Zipsor,3.51
+30,Female,None,"Constipation, Acute","Recently gave birth and was in a hospital bed",Milk of Magnesia,9.47
+28,Female,None,"Birth Control","Going for a follow-up check-up soon",Levonorgestrel,9.51
+13,Male,None,"Not Listed / Other","Uses medication due to a concussion",Melatonin,6.80
+40,Female,None,"Osteoarthritis","Switched to another depression medication",Duloxetine,0.20
+30,Female,None,"Ovarian Cysts","Using medication for 4 years",Seasonique,9.70
+35,Female,None,"Bowel Preparation","Finds the process challenging",MoviPrep,6.80
+28,Female,None,"Abnormal Uterine Bleeding","Had periods lasting nearly 5 months",Norethindrone,1.23
+40,Female,None,"Weight Loss","Lost 7 pounds in a little over a week",Bupropion / naltrexone,9.20
+32,Female,None,"Vaginal Yeast Infection","Took the medication at night to avoid pain",Tioconazole,0.33
+46,Female,None,"Acne","Was seeking clearer skin after minor breakouts",Aczone,3.46
+35,Female,None,"Constipation","Experienced urgency and flatulence",Lactulose,3.75
+40,Female,None,"Depression","Tried to discontinue but faced severe withdrawal",Pristiq,6.94
+35,Female,None,"Depression","Started experiencing benefits within six weeks",Pristiq,9.86
+30,Female,None,"Vaginal Yeast Infection","Currently on antibiotics for a respiratory infection",Tioconazole,1.07
+50,Female,None,"Unknown","Disliked the online ad for the product",Bupropion / naltrexone,4.11
+18,Female,None,"Birth Control","Had an unplanned pregnancy at 17",Etonogestrel,4.05
+40,Female,None,"Depression","Noticed improvement in anxiety and mood",Tramadol,1.07
+30,Female,None,"Birth Control","No period since the initial spotting",Etonogestrel,4.04
+28,Female,None,"Chlamydia Infection","Used during pregnancy for a sinus infection",Azithromycin,0.31
+25,Female,None,"Birth Control","Experienced extreme nausea and mood swings",Drospirenone / ethinyl estradiol,0.30
+35,Male,None,"Insomnia","Experienced sleep issues after a brain injury",Doxepin,7.00
+50,Male,None,"Diabetes, Type 2","Happy with controlled blood sugar levels",Pioglitazone,9.02
+40,Female,None,"Nightmares","Experiencing on and off nightmares",Prazosin,3.41
+40,Female,None,"Allergic Rhinitis","Using medication for controlling allergies",Desloratadine,4.99
+35,Female,None,"Insomnia","Switched from Ambien to try this medication",Temazepam,8.53
+40,Male,None,"Crohn's Disease","Been in remission for the last 2.5 years",Entyvio,1.49
+78,Male,None,"Non-Small Cell Lung Cancer","Started taking medication as a first line of treatment",Gefitinib,2.53
+19,Female,None,"Acne","Had tried multiple treatments before this",Accutane,7.76
+24,Female,None,"Birth Control","Never had children before using this IUD",Skyla,1.61
+40,Female,None,"Inflammatory Conditions","Experienced aches and pains relief",Meloxicam,0.55
+45,Female,None,"Bipolar Disorder","Became suicidal during medication use",Duloxetine,1.64
+30,Female,None,"Birth Control","Experienced acne breakout and cysts",Ethinyl estradiol / levonorgestrel,2.07
+30,Female,None,"Birth Control","Noticed an increase in breast size",Ethinyl estradiol / levonorgestrel,8.99
+35,Female,None,"Obesity","Started medication a month ago",Orlistat,0.31
+25,Female,None,"Anxiety","Legs became restless after taking the medication",Hydroxyzine,2.15
+50,Male,None,"Pain","Been using medication for 1 month",Fentanyl,0.78
+30,Female,None,"Birth Control","Experienced anxiety and depression over the year",Etonogestrel,0.69
+9,Male,None,"ADHD","Son has improved significantly at school",Atomoxetine,8.23
+25,Female,None,"Acne","Found relief by taking with food",Doxycycline,9.64
+40,Female,None,"Postherpetic Neuralgia","Diagnosed after a year of suffering",Gabapentin enacarbil,1.60
+50,Male,None,"Cold Symptoms","Mainly had congestion",Bronkaid,8.12
+40,Female,None,"Obsessive Compulsive Disorder","Prescribed medication after sleep problems",Quetiapine,4.74
+50,Male,None,"Depression","Tried niacin after reading an article",Niacin,0.01
+40,Female,None,"Schizophrenia","Developed illness after childbirth",Paliperidone,6.48
+30,Female,None,"Acne","Skin became red and oily",Clindamycin,9.67
+23,Female,None,"Acne","Started experiencing cystic acne at age 23",Ethinyl estradiol / norgestimate,9.51
+35,Female,None,"Birth Control","Prefers this method over others tried",Etonogestrel,9.62
+30,Female,None,"Birth Control","Hoping things improve after the next month",Drospirenone / ethinyl estradiol / levomefolate calcium,9.33
+50,Female,None,"Motion Sickness","Experienced side effects after a 7-day cruise",Scopolamine,7.99
+28,Female,None,"Birth Control","Noticed changes in mood and memory",Nexplanon,0.33
+50,Female,None,"Conjunctivitis, Allergic","Described as very good for her condition",Sterapred,7.46
+45,Female,None,"Skin or Soft Tissue Infection","Planning to call the doctor about side effects",Amoxicillin / clavulanate,4.23
+30,Female,None,"Birth Control","Fixed cycle to every three to four weeks",Kariva,7.82
+40,Female,None,"Birth Control","Found insertion pain-free and covered by insurance",Etonogestrel,9.36
+40,Female,None,"Interstitial Cystitis","Diagnosed a few years ago",Pentosan polysulfate sodium,0.65
+30,Male,None,"Chronic Pain","Wounded in Iraq by an IED",Hydromorphone,0.07
+35,Female,None,"Obesity","Started noticing reduced cravings",Adipex-P,7.82
+45,Female,None,"Anxiety","Rated as the best for extreme anxiety",Clonazepam,6.59
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+35,Female,None,"Atopic Dermatitis","Has been using the cream for a year after switching from another treatment.",Tacrolimus,7
+50,Female,None,"Diabetic Peripheral Neuropathy","Underwent two major surgeries last year.",Gabapentin,9
+40,Male,None,"Alcohol Dependence","Stopped drinking after 20 years of heavy use.",Campral,7
+47,Female,None,"Insomnia","Had a hysterectomy and experienced severe sleep issues.",Flurazepam,3
+32,Male,None,"Cough and Nasal Congestion","Prefers this medication over others previously tried.",Zutripro,8
+40,Female,None,"Major Depressive Disorder","Had to appeal to insurance for coverage.",Vilazodone,3
+28,Female,None,"Rhinitis","Experienced flu, leading to a sinus infection.",Fluticasone,0
+30,Female,None,"Pain","Used after wisdom teeth removal.",Vicodin,8
+35,Male,None,"Insomnia","Due to a painful disability, relies on medication for sleep.",Ambien,5
+32,Female,None,"Insomnia","Has been using the medication for 2 years.",Ambien,9
+50,Female,None,"Postmenopausal Symptoms","Reports very good results overall.",Estradiol,7
+38,Female,None,"Restless Legs Syndrome","Noticed changes within a week of starting treatment.",Mirapex,9
+40,Male,None,"ADHD","Experienced improvements in family life.",Atomoxetine,1
+32,Female,None,"Abnormal Uterine Bleeding","Taking the medication for cervical polyps.",Medroxyprogesterone,8
+28,Female,None,"Eczema","Mother uses it for her daughter's eczema.",Mometasone,8
+30,Female,None,"Acne","Suffered from acne since age 12.",Yaz,9
+25,Female,None,"Birth Control","Switched to this pill after trying another.",Sronyx,0
+20,Female,None,"Abnormal Uterine Bleeding","Concerned about long-term health issues.",Depo-Provera,1
+22,Female,None,"Birth Control","Has been using for over a year and experienced positive results.",Mirena,9
+40,Female,None,"Headache","Prefers this medication for its effectiveness.",Fioricet,8
+45,Female,None,"Asthma","Uses it regularly and noticed significant lifestyle improvements.",Singulair,9
+19,Female,None,"Emergency Contraception","Was concerned about pregnancy risk after unprotected intercourse.",Plan B One-Step,9
+30,Female,None,"Birth Control","Had a blood clot, felt negatively about the medication.",Ethinyl estradiol / norethindrone,7
+30,Female,None,"Migraine","Visited the ER for severe pain.",Metoclopramide,0
+78,Female,None,"Restless Legs Syndrome","Has been dealing with the condition since age 25.",Pramipexole,9
+45,Female,None,"Anxiety and Stress","Experienced worsening symptoms while on medication.",Celexa,7
+30,Female,None,"Birth Control","First time using birth control, had mostly positive experiences.",Tri-Sprintec,9
+45,Male,None,"Herbal Supplementation","Started using it after a high PSA reading.",Milk thistle,5
+32,Female,None,"Endometriosis","Diagnosed in early 20s, recently started treatment.",Leuprolide,0
+45,Female,None,"Obesity","Participated in a clinical trial for weight loss.",Belviq,0
+30,Female,None,"Otitis Media","Experienced vaginal itching after several days of treatment.",Cefdinir,2
+25,Female,None,"Acne","Started using the medication 2 years ago.",Tretinoin,9
+30,Female,None,"Constipation","Received it as a gift from a friend after surgery.",Magnesium citrate,7
+35,Female,None,"Bacterial Infection","Had Mirena removed due to recurrent infections.",Metronidazole,1
+40,Male,None,"Pain","Worked as a nurse for over 10 years.",Methadone,0
+40,Female,None,"Depression","Started using it after the loss of a friend.",Citalopram,2
+40,Female,None,"Schizophrenia","Experienced a significant life change after starting treatment.",Olanzapine,4
+35,Female,None,"Sinusitis","Had severe sinus issues for many years.",Cefdinir,0
+45,Male,None,"Pain","Found relief with the medication for back and neck issues.",Methadone,0
+50,Male,None,"Anesthesia","Used it after a dental procedure.",Lidocaine,5
+35,Female,None,"Vaginal Yeast Infection","Experienced discomfort during the first treatment.",Miconazole,3
+60,Female,None,"Postherpetic Neuralgia","Suffers from multiple types of headaches.",Pregabalin,7
+30,Female,None,"Birth Control","Tried several medications, had varied experiences.",Ethinyl estradiol / norgestimate,0
+35,Female,None,"Muscle Spasm","Recently underwent back surgery.",Metaxalone,2
+40,Male,None,"Depression","Found it effective initially, then stopped working.",Duloxetine,5
+35,Female,None,"Sedation","Experienced significant improvement in sleep quality.",Hydroxyzine,9
+40,Female,None,"Major Depressive Disorder","Recently started using the medication.",Vilazodone,9
+31,Male,None,"Panic Disorder","Experienced physical symptoms related to anxiety.",Sertraline,10
+25,Female,None,"Birth Control","Has had the implant for three months.",Etonogestrel,1
+40,Female,None,"Bowel Preparation","Struggled with the taste of the preparation drink.",Magnesium sulfate / potassium sulfate / sodium sulfate,6
+50,Male,None,"Multiple Sclerosis","Diagnosed in 2014, on treatment since.",Glatiramer,1
+60,Female,None,"Multiple Sclerosis","Switched treatments in 2013.",Tecfidera,0
+40,Female,None,"Restless Legs Syndrome","Recovering from drug addiction, seeking alternatives.",Gabapentin,0
+45,Female,None,"Anxiety and Stress","Used it in the past, recently resumed treatment.",Fluoxetine,6
+32,Female,None,"Generalized Anxiety Disorder","Had a difficult experience with the medication.",Escitalopram,0
+40,Female,None,"Obesity","Started medication before Thanksgiving, noticed weight loss.",Saxenda,10
+50,Female,None,"Bowel Preparation","Experienced vomiting during preparation.",Magnesium sulfate / potassium sulfate / sodium sulfate,7
+30,Female,None,"Vaginal Yeast Infection","Had discomfort during the treatment period.",Miconazole,2
+20,Female,None,"Abnormal Uterine Bleeding","Severe cramps led to an ER visit.",Depo-Provera,0
+30,Female,None,"Pharyngitis","Experienced severe symptoms requiring IV treatment.",Prednisone,0
+25,Female,None,"Acne","Used the medication incorrectly in the past.",Benzoyl peroxide / erythromycin,6
+35,Female,None,"Insomnia","Uses the medication occasionally for sleep.",Mirtazapine,9
+30,Female,None,"Depression","Started treatment under a mental health professional's guidance.",Fluoxetine,6
+45,Female,None,"Bipolar Disorder","Has been on various medications for 35 years.",Seroquel,6
+28,Female,None,"Burns, External","Used after a severe sunburn.",Benzocaine,6
+32,Female,None,"Birth Control","First time using the implant, noticed some discomfort.",Etonogestrel,1
+45,Female,None,"Weight Loss","Lost 12 pounds in 3 months while on the medication.",Lorcaserin,10
+30,Female,None,"Birth Control","First time using birth control, experienced nausea.",Minastrin 24 Fe,1
+38,Female,None,"Psoriasis","Received the second injection a month ago.",Ustekinumab,9
+28,Female,None,"Birth Control","Has been on the implant for 10 months.",Nexplanon,5
+32,Female,None,"Birth Control","Noticed significant changes after using the implant.",Etonogestrel,3
+35,Female,None,"Fibromyalgia","Found the medication helpful in managing symptoms.",Mucinex,9
+40,Male,None,"Pain","Used it after a rib injury.",Acetaminophen / hydrocodone,0
+13,Female,None,"Crohn's Disease, Maintenance","Diagnosed with Crohn's at age 13.",Adalimumab,6
+38,Female,None,"Weight Loss","Experienced drowsiness during the first week.",Bupropion / naltrexone,5
+35,Female,None,"Birth Control","Experienced mood improvement and increased hydration needs.",Ethinyl estradiol / norgestimate,9
+60,Female,None,"COPD, Maintenance","Noticed chest pain after a month of use.",Tiotropium,1
+30,Female,None,"Nausea/Vomiting of Pregnancy","Had an extreme emotional reaction after taking the medication.",Doxylamine / pyridoxine,0
+40,Female,None,"Menorrhagia","Diagnosed with polycystic ovarian syndrome.",Tranexamic acid,7
+28,Female,None,"Depression","Experienced significant changes after starting the medication.",Sertraline,1
+20,Female,None,"Birth Control","Started experiencing anxiety and shedding hair.",Ethinyl estradiol / norethindrone,2
+40,Male,None,"Weight Loss","Lost 50 pounds before getting pregnant.",Phentermine,8
+40,Female,None,"Pain","Diagnosed with gout, used medication for relief.",Tramadol,4
+30,Female,None,"Birth Control","Switched to this after using NuvaRing.",Ortho Tri-Cyclen,9
+28,Female,None,"Generalized Anxiety Disorder","Recommended medication by a psychologist.",Sertraline,6
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+84,Male,None,"Erectile Dysfunction","Uses Levitra for about 8 years, buys generic to reduce costs",Vardenafil,7.3
+40,Female,None,"Insomnia","Experienced a lot of weird dreams",Trazodone,1.6
+30,Female,None,"Premenstrual Dysphoric Disorder","Considering other options after a 3-month trial",Drospirenone / ethinyl estradiol,6.3
+50,Female,None,"Bowel Preparation","Hopes not to repeat the process soon",Suprep Bowel Prep Kit,8.8
+25,Female,None,"Birth Control","Noticed mood fluctuations after insertion",Levonorgestrel,4.3
+35,Male,None,"Seizure Prevention","Seizure-free for 8 years while on medication",Clonazepam,6.7
+45,Female,None,"Psoriasis","Tried multiple immunosuppressant medications in the past",Ustekinumab,7.6
+28,Female,None,"Emergency Contraception","Used Plan B multiple times before",Plan B,8.9
+40,Female,None,"Pain","Has Lupus and Sciatica, tried various pain medications",Methadone,2.2
+30,Female,None,"Migraine","Suffered from migraines for many years",Relpax,2.7
+50,Male,None,"Left Ventricular Dysfunction","Side effects improved after the first month",Carvedilol,7.7
+25,Female,None,"Constipation","Experienced severe stomach pain",Dulcolax,0.3
+38,Female,None,"Vertigo","Helped with nausea but not vertigo itself",Promethazine,6.0
+30,Female,None,"Birth Control","Was on different birth controls for 5 years",Sprintec,2.0
+35,Female,None,"Depression","Switched to Paxil after using this medication",Bupropion,2.4
+50,Male,None,"High Blood Pressure","Used Altace for over 5 years",Ramipril,6.8
+55,Female,None,"Anemia, Chemotherapy Induced","Undergoing injections for over 3 years",Aranesp,5.0
+36,Female,None,"Pain","Struggled with slipped discs and hereditary OA",Nucynta ER,0.3
+40,Female,None,"Bowel Preparation","First colonoscopy experience",Citric acid / magnesium oxide / sodium picosulfate,2.9
+50,Female,None,"Glaucoma, Open Angle","Developed allergies to previous drops",Zioptan,7.4
+28,Female,None,"Birth Control","Had some pros and cons with the medication",Ethinyl estradiol / levonorgestrel,1.0
+45,Female,None,"High Cholesterol","Living in the UK",Rosuvastatin,0.9
+22,Female,None,"Birth Control","Previously on the patch",Ethinyl estradiol / levonorgestrel,8.6
+50,Male,None,"Diabetes, Type 2","Has been taking Victoza for about a year",Victoza,7.6
+45,Male,None,"Pain","Doctor prescribed this after switching from Norco",Zohydro ER,6.6
+30,Female,None,"Traveler's Diarrhea","Fell ill after eating at a non-American food buffet",Rifaximin,1.6
+45,Female,None,"Major Depressive Disorder","Experienced anxiety attacks as well",Effexor XR,0.7
+35,Male,None,"Depression","Noticed significant weight loss",Bupropion,2.5
+28,Female,None,"Emergency Contraception","Had spotting a week after taking the pill",Levonorgestrel,5.6
+25,Female,None,"Birth Control","Experiencing heavy and prolonged periods",Ethinyl estradiol / norethindrone,6.7
+40,Female,None,"Bipolar Disorder","Uses medication for its sedative effects",Seroquel XR,5.0
+35,Male,None,"Multiple Sclerosis","Symptoms fading after stopping the medication",Glatiramer,2.3
+28,Female,None,"Irritable Bowel Syndrome","Stopped taking the medication due to side effects",Hyoscyamine,0.8
+40,Male,None,"Bipolar Disorder","Combining with other medications",Divalproex sodium,5.3
+38,Female,None,"Anxiety","Using Gabapentin for panic attacks",Gabapentin,0.6
+28,Female,None,"Birth Control","No children yet, experiencing mood changes",Skyla,8.5
+22,Female,None,"Birth Control","Using Natazia for about 1.5 years",Dienogest / estradiol,8.0
+30,Female,None,"Birth Control","Started the medication recently",Ethinyl estradiol / norethindrone,8.5
+25,Female,None,"Birth Control","Experiencing mood swings and physical symptoms",Ethinyl estradiol / norethindrone,0.2
+40,Male,None,"Chronic Pain","Was switched from another medication",Embeda,4.0
+50,Male,None,"Seizures","Simple focal seizures",Levetiracetam,5.0
+30,Female,None,"Birth Control","Gained weight and noticed changes in emotions",Etonogestrel,4.0
+28,Female,None,"Birth Control","Headaches and changes in appetite",Ethinyl estradiol / norethindrone,8.4
+30,Female,None,"Vaginal Yeast Infection","Had good results using Monistat previously",Tioconazole,0.6
+15,Female,None,"Acne","Started using the medication at 13",Duac,9.3
+35,Female,None,"Ulcerative Colitis","Diagnosed about 12 years ago",Infliximab,9.1
+30,Female,None,"Birth Control","Hair became oily initially",Etonogestrel,9.2
+40,Female,None,"Obesity","Paying for the medication out of pocket",Saxenda,7.6
+35,Female,None,"Bipolar Disorder","Suggested this medication to the psychiatrist",Lamotrigine,9.6
+45,Female,None,"Depression","Took a genetic test to optimize medication",Deplin,9.7
+28,Female,None,"Urinary Tract Infection","Did not know what a UTI felt like initially",Ciprofloxacin,3.0
+35,Female,None,"Depression","Experienced improvements initially",Effexor,4.7
+40,Female,None,"Cold Sores","Has been suffering from cold sores for years",Penciclovir,8.2
+30,Female,None,"Endometriosis","First 3 weeks were difficult on the medication",Lupron Depot,0.2
+35,Female,None,"Emergency Contraception","Felt crazy symptoms for about a month",Levonorgestrel,7.9
+50,Male,None,"Sinusitis","Used the medication multiple times",Avelox,8.4
+30,Female,None,"Fibromyalgia","Dropped weight before starting the medication",Pregabalin,1.5
+45,Male,None,"Bipolar Disorder","Had to switch back to Seroquel",Geodon,5.0
+30,Female,None,"ADHD","Prefers this medication over Adderall",Lisdexamfetamine,8.3
+35,Female,None,"Major Depressive Disorder","Lost a son to SIDS",Trazodone,6.7
+age,sex,current_medication,symptoms,other_details,reviewed_medication,review_rating
+19,Female,None,"Birth Control","User is young and sexually active",Levonorgestrel,9.54
+30,Female,None,"Extrapyramidal Reaction","Short-term medication usage",Cogentin,5.0
+25,Female,None,"Abnormal Uterine Bleeding","Discussed various birth control options with doctor",Mononessa,1.39
+40,Female,None,"Bipolar Disorder","Stopped due to worsening symptoms",Geodon,0.25
+22,Female,None,"Acne","Happy with skincare routine",Adapalene / benzoyl peroxide,9.08
+28,Female,None,"Period Pain","Experienced pain relief initially",Mefenamic acid,4.87
+60,Male,None,"Atrial Fibrillation","Feels more confident about health",Xarelto,9.14
+45,Female,None,"Chronic Pain","Was on this medication for about 7 months",Duloxetine,0.43
+35,Female,None,"Birth Control","Previously used the pill for 18 years",ParaGard,9.41
+35,Female,None,"Depression","Recently took the medication for 6 weeks",Wellbutrin,8.15
+30,Female,None,"Dermatitis","Manages eczema primarily in colder seasons",Pramosone,7.86
+50,Male,None,"Pain","Seeking longer-lasting relief options",Lidocaine,5.0
+40,Male,None,"Depression","Housebound before taking this medication",Paxil,0.11
+28,Female,None,"Birth Control","Has been on this pill for over a year",Ethinyl estradiol / levonorgestrel,6.41
+35,Male,None,"Allergic Rhinitis","Parent of a child who struggles to swallow pills",Cetirizine,9.08
+24,Male,None,"Psoriasis","Dealing with condition since age 6",Adalimumab,6.58
+50,Female,None,"Dermatitis","Experiencing condition while using another cream",Synalar Ointment,1.21
+45,Female,None,"Depression","Tried multiple medications over the past 10 years",Emsam,8.32
+50,Male,None,"Upper Respiratory Tract Infection","Has COPD",Doryx,8.12
+30,Female,None,"Birth Control","Happy with current birth control",Desogestrel / ethinyl estradiol,9.77
+25,Female,None,"Birth Control","Had to switch due to stomach pain",Ethinyl estradiol / norgestimate,0.17
+35,Male,None,"Otitis Media","Experienced ruptured eardrum",Azithromycin,7.27
+40,Female,None,"Narcolepsy","Switched doctors due to side effects",Armodafinil,5.77
+30,Male,None,"Bipolar Disorder","Noticed immediate energy boost",Armodafinil,3.56
+45,Female,None,"Bowel Preparation","Had a colonoscopy with different prep before",Magnesium sulfate / potassium sulfate / sodium sulfate,8.37
+30,Female,None,"Acne","Diagnosed with lupus after taking the antibiotic",Minocycline,2.22
+50,Male,None,"Angina","Initially thought symptoms were due to heartburn",Ranolazine,0.99
+35,Female,None,"Obesity","Contemplating whether to continue medication",Bupropion / naltrexone,2.15
+40,Female,None,"Hypodermoclysis","Found the procedure to be simple and quick",Hylenex,3.52
+30,Female,None,"Bacterial Vaginitis","Experienced symptoms for the second time",Metronidazole,0.07
+40,Female,None,"Plaque Psoriasis","Insurance issues with medication coverage",Cosentyx,2.5
+28,Female,None,"Smoking Cessation","Experienced migraines on second attempt",Chantix,5.99
+25,Female,None,"Birth Control","Developed acid reflux during the cycle",Lo Loestrin Fe,0.69
+30,Male,None,"Back Pain","Recently had spinal fusion surgery",Tramadol,6.7
+45,Female,None,"Depression","Uses the medication for over six years",Sertraline,0.91
+22,Female,None,"Birth Control","Removed due to mental health concerns",Nexplanon,4.38
+40,Female,None,"Muscle Pain","Compares to other topical pain relievers",Medrox,8.13
+38,Female,None,"Depression","Warns against missing doses",Effexor XR,0.96
+40,Female,None,"Urinary Tract Infection","First time using this medication",Cipro,7.16
+50,Male,None,"Bipolar Disorder","Previously tried many different medications",Oxcarbazepine,0.1
+30,Female,None,"Depression","Willing to take medication long-term",Fluoxetine,1.21
+45,Female,None,"Birth Control","Previously experienced uterine perforation",ParaGard,1.17
+25,Female,None,"Birth Control","Notices emotional changes on the pill",TriNessa,6.2
+65,Male,None,"High Blood Pressure","Taking medication for 10 years",Atenolol,2.71
+30,Female,None,"Depression","Advised to wait another week before switching",Vilazodone,8.43
+45,Female,None,"Pain","Happy with the impact on fibromyalgia",Tapentadol,8.18
+40,Female,None,"Obesity","Looking to lose weight before wedding",Bupropion / naltrexone,8.02
+35,Female,None,"Migraine","Experienced side effects through IV administration",Metoclopramide,7.63
+45,Female,None,"Hypothyroidism","Had thyroid removed 3 years ago",Cytomel,9.89
+28,Female,None,"Birth Control","Noticed side effects immediately after starting",Gildess Fe 1 / 20,0.24
+30,Female,None,"Vaginal Yeast Infection","Experienced more discomfort than the infection itself",Terconazole,5.0
+45,Female,None,"Pain","Struggled with pain for 6 months before relief",Nortriptyline,7.71
+55,Female,None,"Pneumococcal Disease Prophylaxis","Given vaccine during routine visit",Pneumococcal 13-valent vaccine,2.45
+35,Male,None,"Insomnia","Found medication effective for quality sleep",Mirtazapine,8.81
+30,Female,None,"Hirsutism","Noticed improvement within a few weeks",Eflornithine,7.3
+50,Male,None,"Osteoarthritis","Has been taking the medication for 14 years",Etodolac,1.41
+40,Female,None,"GERD","Short-term positive experience",Rabeprazole,5.0
+40,Male,None,"Opiate Dependence","Found relief from heroin addiction",Buprenorphine / naloxone,4.7
+30,Female,None,"Depression","Immediate improvement noticed",Pamelor,7.29
