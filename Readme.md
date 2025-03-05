@@ -28,9 +28,6 @@
             <img src="https://www.isel.pt/sites/default/files/SCI/Identidade/logo_ISEL_simplificado_cor.png" alt="ISEL logo" style="width: 240px; height: auto;">
         </a>
     </div>
-    <div style="flex: 3; text-align: left; padding-left: 20px;">
-        <h3>DRecSys: Drug Recommendation System</h3>
-    </div>
 </div>
 
 ## DRecSys: Drug Recommendation System
