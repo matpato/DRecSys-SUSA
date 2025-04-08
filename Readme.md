@@ -25,19 +25,27 @@
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <a href="https://isel.pt" target="_blank">
-            <img src="https://www.isel.pt/sites/default/files/SCI/Identidade/logo_ISEL_simplificado_cor.png" alt="ISEL logo" style="width: 240px; height: auto;">
+            <img src="./img/01_ISEL-Logotipo-RGB_Horizontal.png" alt="ISEL logo" style="width: 400px; height: auto;">
         </a>
     </div>
+    <div style="flex: 3; text-align: left; padding-left: 20px;">
+        <h3>DRecSys-SUSA: Drug Recommendation System Based on Symptoms and User Sentiment Analysis</h3>
+    </div>
 </div>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-Available-blue.svg)](https://www.docker.com/)
+[![Llma](https://custom.typingmind.com/assets/models/llama.png)](https://www.llama.com)
+[![Hugging Face](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg)](https://huggingface.co)
 
 ## DRecSys: Drug Recommendation System
 
 ## Overview
-DRecSys is a machine learning-based drug recommendation system that leverages Large Language Models (LLMs) to suggest medications based on patient symptoms, conditions, and medical history. The system uses fine-tuned LLMs to analyze medical data and provide personalized medication recommendations.
+DRecSys-SUSA is a machine learning-based drug recommendation system that leverages Large Language Models (LLMs) to suggest medications based on patient symptoms, conditions, and medical history. The system uses fine-tuned LLMs to analyze medical data and provide personalized medication recommendations.
 
 ## Project Structure
 ```
-DRecSys/
+DRecSys-SUSA/
 ├── datasets.py          # Dataset construction and preprocessing
 ├── finetune.py          # LLM fine-tuning module
 ├── results.py           # Recommendation generation
@@ -78,8 +86,8 @@ For semantic condition extraction, a smaller model is used:
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/matpato/DRecSys.git
-cd DRecSys
+git clone git@github.com:matpato/DRecSys-SUSA.git
+cd DRecSys-SUSA
 
 # Using pip
 pip install -r requirements.txt
@@ -157,7 +165,7 @@ The system is evaluated using standard recommendation system metrics:
 The system uses drug review datasets containing user ratings, medical conditions, and review text. Data processing includes:
 - Removal of corrupted reviews
 - Extraction of condition-to-drug mappings
-- Sentiment analysis using VADER
+- Sentiment analysis using <a href="https://github.com/cjhutto/vaderSentiment">VADER</a>
 - Formatting for LLM fine-tuning
 
 ## Contributing
@@ -169,6 +177,11 @@ Contributions to improve the system are welcome. Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Limitations
+
+- This is a proof of concept and should not replace professional medical advice
+- Recommendations are limited by the quality and quantity of the training data
+- The system does not account for individual patient factors such as age, gender, or medical history
 
 ## Citation
 If you use this system in your research, please cite it as:
@@ -179,11 +192,21 @@ If you use this system in your research, please cite it as:
   year = {2025},
   url = {https://github.com/matpato/DRecSys}
 }
+
+@mastersthesis{DRecSys-SUSA2025,
+  author  = "Ana Sofia Pinto",
+  title   = "Drug Recommendation System Based on Symptoms and User Sentiment Analysis",
+  school  = "Instituto Superior de Engenharia de Lisboa",
+  year    = "2025"
+}
 ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
-- Drug review data sourced from the EDRISA repository by matpato
+- Drug review data sourced from the <a href="https://github.com/matpato/EDRISA.git">EDRISA</a> repository by matpato
 - PEFT implementation based on Hugging Face libraries
+
+Developed by Ana Sofia Pinto as part of the Drug Recommendation System Based on Symptoms and User Sentiment Analysis dissertation.
+
+## License
+
+[MIT License](LICENSE)
