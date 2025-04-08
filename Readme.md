@@ -35,8 +35,8 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Available-blue.svg)](https://www.docker.com/)
-[![Llma](https://custom.typingmind.com/assets/models/llama.png)](https://www.llama.com)
-[![Hugging Face](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg)](https://huggingface.co)
+[![Llma](https://img.shields.io/badge/🦙-Llama-orange)](https://www.llama.com)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co)
 
 ## DRecSys: Drug Recommendation System
 
